@@ -1,0 +1,1852 @@
+E:\BaiduYunDownload\event_traceback\model>python Xgboost.py
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+load train matrix sucess!!
+[0]     train-auc:0.840236+0.0140411    test-auc:0.786618+0.0272557
+[1]     train-auc:0.852357+0.0147262    test-auc:0.786514+0.0274106
+[2]     train-auc:0.8642+0.0136019      test-auc:0.798248+0.0321826
+[3]     train-auc:0.870923+0.012575     test-auc:0.798159+0.0324077
+[4]     train-auc:0.894329+0.0191237    test-auc:0.812065+0.0320921
+[5]     train-auc:0.906006+0.0262364    test-auc:0.822523+0.0330577
+[6]     train-auc:0.920736+0.0240024    test-auc:0.837141+0.031333
+[7]     train-auc:0.923633+0.0264587    test-auc:0.837244+0.0313704
+[8]     train-auc:0.928817+0.0293997    test-auc:0.837397+0.0312735
+[9]     train-auc:0.930448+0.03069      test-auc:0.841766+0.0256944
+[10]    train-auc:0.940369+0.0139473    test-auc:0.8645+0.0394748
+[11]    train-auc:0.944849+0.0159159    test-auc:0.86463+0.0393846
+[12]    train-auc:0.947501+0.0142624    test-auc:0.864733+0.0394737
+[13]    train-auc:0.951429+0.0145553    test-auc:0.876034+0.0482201
+[14]    train-auc:0.956518+0.00982028   test-auc:0.875981+0.0481084
+[15]    train-auc:0.956794+0.00978854   test-auc:0.876052+0.0480278
+[16]    train-auc:0.956933+0.00996924   test-auc:0.876238+0.0481129
+[17]    train-auc:0.957087+0.00994505   test-auc:0.876346+0.0478835
+[18]    train-auc:0.960881+0.00967967   test-auc:0.880714+0.0476202
+[19]    train-auc:0.964757+0.00492587   test-auc:0.880711+0.0477267
+[20]    train-auc:0.964831+0.00488537   test-auc:0.880865+0.0478317
+[21]    train-auc:0.964861+0.00495485   test-auc:0.880746+0.0476993
+[22]    train-auc:0.964885+0.00491619   test-auc:0.880677+0.047793
+[23]    train-auc:0.9662+0.00630943     test-auc:0.885428+0.049277
+[24]    train-auc:0.966239+0.00628907   test-auc:0.8854+0.0491287
+[25]    train-auc:0.966217+0.00631751   test-auc:0.885387+0.0491046
+[26]    train-auc:0.966297+0.00645164   test-auc:0.885301+0.0490344
+[27]    train-auc:0.972824+0.00901499   test-auc:0.88772+0.0528116
+[28]    train-auc:0.977187+0.00904673   test-auc:0.901941+0.0587909
+[29]    train-auc:0.979283+0.0108153    test-auc:0.908771+0.0630448
+[30]    train-auc:0.982851+0.0118836    test-auc:0.92078+0.0680564
+[31]    train-auc:0.991108+0.00309507   test-auc:0.962467+0.0186086
+[32]    train-auc:0.992731+0.0020293    test-auc:0.96464+0.0169386
+[33]    train-auc:0.993543+0.00200634   test-auc:0.965481+0.0177981
+[34]    train-auc:0.993816+0.00202215   test-auc:0.966046+0.0168172
+[35]    train-auc:0.994662+0.00161489   test-auc:0.967965+0.0173686
+[36]    train-auc:0.994814+0.00151933   test-auc:0.966724+0.0184689
+[37]    train-auc:0.995382+0.00112054   test-auc:0.966531+0.0178964
+[38]    train-auc:0.995594+0.00119741   test-auc:0.9658+0.0190919
+[39]    train-auc:0.996054+0.000992652  test-auc:0.96579+0.0201915
+[40]    train-auc:0.996369+0.000994108  test-auc:0.964073+0.0225908
+[41]    train-auc:0.996516+0.00105767   test-auc:0.96601+0.0218295
+[42]    train-auc:0.996677+0.000989225  test-auc:0.965222+0.0215016
+[43]    train-auc:0.996826+0.00093727   test-auc:0.966742+0.0205515
+[44]    train-auc:0.996905+0.000953986  test-auc:0.967133+0.0203845
+the best n_estimatorsï¼?36
+CCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 1}
+Auccuracy: 0.976952113477
+
+Model Report
+accuracy_score : 0.9982
+precision_score: 1
+recall_score: 0.7778
+AUC Score (Train): 0.999078
+load train matrix sucess!!
+[0]     train-auc:0.89762+0.00258422    test-auc:0.889345+0.0136211
+[1]     train-auc:0.910435+0.00443386   test-auc:0.902428+0.0120939
+[2]     train-auc:0.916855+0.00561333   test-auc:0.910559+0.00561539
+[3]     train-auc:0.924754+0.00616304   test-auc:0.916909+0.00952447
+[4]     train-auc:0.928987+0.00774511   test-auc:0.920038+0.0135846
+[5]     train-auc:0.931681+0.00933367   test-auc:0.921821+0.0143219
+[6]     train-auc:0.933534+0.00846894   test-auc:0.922563+0.0151113
+[7]     train-auc:0.941529+0.00667947   test-auc:0.929959+0.0114897
+[8]     train-auc:0.946039+0.00394712   test-auc:0.93487+0.0124261
+[9]     train-auc:0.951402+0.00338549   test-auc:0.942962+0.0108389
+[10]    train-auc:0.953243+0.00257819   test-auc:0.946342+0.00964958
+[11]    train-auc:0.955195+0.00217203   test-auc:0.947274+0.00957429
+[12]    train-auc:0.958329+0.00828537   test-auc:0.951823+0.00783105
+[13]    train-auc:0.970117+0.00721072   test-auc:0.96381+0.0104249
+[14]    train-auc:0.974632+0.00089362   test-auc:0.967794+0.00626135
+[15]    train-auc:0.976937+0.0005692    test-auc:0.96994+0.00508427
+[16]    train-auc:0.977948+0.000750182  test-auc:0.970262+0.0042856
+[17]    train-auc:0.978813+0.000917909  test-auc:0.971434+0.00477759
+[18]    train-auc:0.980497+0.000838874  test-auc:0.973207+0.00529338
+[19]    train-auc:0.9815+0.000974948    test-auc:0.973918+0.00456504
+[20]    train-auc:0.982135+0.0011976    test-auc:0.975196+0.00496746
+[21]    train-auc:0.982969+0.000998864  test-auc:0.975539+0.00498521
+[22]    train-auc:0.983293+0.00120468   test-auc:0.97596+0.00507689
+[23]    train-auc:0.984058+0.0013231    test-auc:0.976749+0.0051593
+[24]    train-auc:0.984704+0.000896832  test-auc:0.977537+0.00518157
+[25]    train-auc:0.985097+0.000638139  test-auc:0.977758+0.00526795
+[26]    train-auc:0.985669+0.000914583  test-auc:0.977665+0.00517064
+[27]    train-auc:0.986026+0.000932422  test-auc:0.977946+0.0048921
+[28]    train-auc:0.986496+0.00091697   test-auc:0.978699+0.00497705
+[29]    train-auc:0.986946+0.000800252  test-auc:0.978899+0.0049315
+[30]    train-auc:0.987354+0.000897947  test-auc:0.979267+0.00477914
+[31]    train-auc:0.987919+0.000499134  test-auc:0.979384+0.0049153
+[32]    train-auc:0.988325+0.000579496  test-auc:0.979819+0.00449607
+[33]    train-auc:0.988612+0.000668652  test-auc:0.980311+0.00425277
+[34]    train-auc:0.988939+0.000566688  test-auc:0.980549+0.00431392
+[35]    train-auc:0.989141+0.000530583  test-auc:0.980717+0.00433253
+[36]    train-auc:0.989381+0.000504206  test-auc:0.981102+0.00431712
+[37]    train-auc:0.989622+0.000504683  test-auc:0.981129+0.00445776
+[38]    train-auc:0.989873+0.000571268  test-auc:0.981273+0.00437863
+[39]    train-auc:0.98999+0.000533981   test-auc:0.981372+0.0044652
+[40]    train-auc:0.99005+0.000534437   test-auc:0.98133+0.00467225
+[41]    train-auc:0.990297+0.000439069  test-auc:0.981656+0.00458811
+[42]    train-auc:0.990612+0.000522471  test-auc:0.981831+0.00467631
+[43]    train-auc:0.990842+0.000568279  test-auc:0.982087+0.00465513
+[44]    train-auc:0.990947+0.000605522  test-auc:0.982239+0.00458314
+[45]    train-auc:0.991179+0.000477115  test-auc:0.982358+0.00488855
+[46]    train-auc:0.991303+0.000520574  test-auc:0.982706+0.00463317
+[47]    train-auc:0.991394+0.000516656  test-auc:0.982858+0.00456499
+[48]    train-auc:0.991565+0.000566416  test-auc:0.983089+0.00456334
+[49]    train-auc:0.991656+0.000560544  test-auc:0.983104+0.00459216
+[50]    train-auc:0.99175+0.000463847   test-auc:0.983314+0.00450852
+[51]    train-auc:0.991834+0.000469538  test-auc:0.9834+0.00441097
+[52]    train-auc:0.992116+0.000453596  test-auc:0.983714+0.00464632
+[53]    train-auc:0.99218+0.0004776     test-auc:0.983845+0.00463871
+[54]    train-auc:0.992411+0.000493801  test-auc:0.983949+0.00463545
+[55]    train-auc:0.992498+0.00046588   test-auc:0.983981+0.0046204
+[56]    train-auc:0.992601+0.000410838  test-auc:0.984018+0.00467521
+[57]    train-auc:0.99272+0.000367376   test-auc:0.984136+0.0047367
+[58]    train-auc:0.992843+0.000316499  test-auc:0.984142+0.00481859
+[59]    train-auc:0.992898+0.000348503  test-auc:0.984347+0.00476901
+[60]    train-auc:0.992987+0.000362217  test-auc:0.984418+0.00475712
+[61]    train-auc:0.993093+0.000302752  test-auc:0.984478+0.0047472
+[62]    train-auc:0.993205+0.000285164  test-auc:0.984635+0.00474845
+[63]    train-auc:0.993326+0.000308045  test-auc:0.984755+0.00472172
+[64]    train-auc:0.993376+0.00028691   test-auc:0.984859+0.00473826
+[65]    train-auc:0.993495+0.00036161   test-auc:0.984807+0.00479841
+[66]    train-auc:0.993578+0.000356933  test-auc:0.984801+0.00481754
+[67]    train-auc:0.993674+0.000331721  test-auc:0.984704+0.00490235
+[68]    train-auc:0.993692+0.000339509  test-auc:0.984788+0.00489259
+[69]    train-auc:0.993757+0.000347979  test-auc:0.984751+0.00491729
+[70]    train-auc:0.993834+0.000373476  test-auc:0.984807+0.0048928
+[71]    train-auc:0.993889+0.000369207  test-auc:0.984854+0.00479505
+[72]    train-auc:0.994085+0.000320437  test-auc:0.98482+0.0047573
+[73]    train-auc:0.994176+0.000257503  test-auc:0.984855+0.00468023
+[74]    train-auc:0.994228+0.000237503  test-auc:0.984898+0.00470463
+[75]    train-auc:0.994294+0.000261641  test-auc:0.984841+0.00478563
+[76]    train-auc:0.99438+0.000266408   test-auc:0.98491+0.00475805
+[77]    train-auc:0.994451+0.000290288  test-auc:0.985036+0.00471751
+[78]    train-auc:0.994528+0.000277193  test-auc:0.985109+0.00477405
+[79]    train-auc:0.994575+0.000259056  test-auc:0.985179+0.0047233
+[80]    train-auc:0.994632+0.000237673  test-auc:0.985213+0.00470381
+[81]    train-auc:0.994686+0.000208094  test-auc:0.98524+0.0047039
+[82]    train-auc:0.994773+0.000250292  test-auc:0.98525+0.00472634
+[83]    train-auc:0.994826+0.000257444  test-auc:0.985324+0.0047038
+[84]    train-auc:0.994892+0.000256442  test-auc:0.98537+0.00466597
+[85]    train-auc:0.994958+0.000269851  test-auc:0.985475+0.00459817
+[86]    train-auc:0.995022+0.000300463  test-auc:0.985614+0.0045438
+[87]    train-auc:0.995078+0.000294622  test-auc:0.985654+0.0044978
+[88]    train-auc:0.995125+0.000328351  test-auc:0.985755+0.00445242
+[89]    train-auc:0.99516+0.000304324   test-auc:0.985766+0.00442892
+[90]    train-auc:0.99522+0.000253573   test-auc:0.985808+0.00442883
+[91]    train-auc:0.995275+0.000259617  test-auc:0.985842+0.00442135
+[92]    train-auc:0.995329+0.000257512  test-auc:0.985887+0.00439639
+[93]    train-auc:0.995378+0.000266383  test-auc:0.986005+0.00431591
+[94]    train-auc:0.995417+0.0002577    test-auc:0.985978+0.00435391
+[95]    train-auc:0.995466+0.000253843  test-auc:0.985946+0.00440163
+[96]    train-auc:0.995497+0.000257639  test-auc:0.985977+0.00438024
+[97]    train-auc:0.995539+0.000238845  test-auc:0.986008+0.00433477
+[98]    train-auc:0.995601+0.00023346   test-auc:0.986116+0.00428856
+[99]    train-auc:0.995621+0.000229234  test-auc:0.986099+0.00428026
+[100]   train-auc:0.995655+0.000231562  test-auc:0.986065+0.00427113
+[101]   train-auc:0.995695+0.000218255  test-auc:0.986106+0.00426609
+[102]   train-auc:0.995754+0.000209226  test-auc:0.986183+0.00420003
+[103]   train-auc:0.995802+0.000224696  test-auc:0.986248+0.00414003
+[104]   train-auc:0.995835+0.00020684   test-auc:0.986265+0.00412466
+[105]   train-auc:0.995881+0.000194507  test-auc:0.98627+0.00414881
+[106]   train-auc:0.995918+0.00018707   test-auc:0.986278+0.00415808
+[107]   train-auc:0.995972+0.000214685  test-auc:0.986308+0.00414624
+[108]   train-auc:0.995998+0.000195253  test-auc:0.986289+0.00418453
+[109]   train-auc:0.996059+0.000202594  test-auc:0.986348+0.00412533
+[110]   train-auc:0.996086+0.00018375   test-auc:0.986352+0.00414366
+[111]   train-auc:0.996154+0.000185308  test-auc:0.986436+0.00407251
+[112]   train-auc:0.996196+0.000186418  test-auc:0.986475+0.00408766
+[113]   train-auc:0.996235+0.000182885  test-auc:0.986512+0.00407217
+[114]   train-auc:0.996292+0.000166963  test-auc:0.986519+0.0040666
+[115]   train-auc:0.996347+0.000145035  test-auc:0.986504+0.00406735
+[116]   train-auc:0.996416+0.000150395  test-auc:0.986499+0.00404247
+[117]   train-auc:0.996433+0.000150165  test-auc:0.986524+0.00403541
+[118]   train-auc:0.996475+0.000164141  test-auc:0.98653+0.00404447
+[119]   train-auc:0.996526+0.000168342  test-auc:0.98655+0.00404502
+[120]   train-auc:0.996559+0.000176273  test-auc:0.986576+0.00404709
+[121]   train-auc:0.996584+0.000179401  test-auc:0.986617+0.00403195
+[122]   train-auc:0.996621+0.000203978  test-auc:0.986631+0.00399945
+[123]   train-auc:0.996645+0.000206389  test-auc:0.986658+0.00400708
+[124]   train-auc:0.996676+0.000219182  test-auc:0.986664+0.00402345
+[125]   train-auc:0.996704+0.000231544  test-auc:0.986737+0.0039809
+[126]   train-auc:0.99673+0.000230109   test-auc:0.986735+0.00396477
+[127]   train-auc:0.99676+0.000243449   test-auc:0.98677+0.00395651
+[128]   train-auc:0.996783+0.000242622  test-auc:0.986811+0.00394267
+[129]   train-auc:0.996803+0.000236819  test-auc:0.986836+0.00393898
+[130]   train-auc:0.996818+0.000241994  test-auc:0.986858+0.00392262
+[131]   train-auc:0.996845+0.000230825  test-auc:0.986832+0.00394213
+[132]   train-auc:0.996871+0.000237212  test-auc:0.986816+0.00394977
+[133]   train-auc:0.996913+0.000259788  test-auc:0.986879+0.0039025
+[134]   train-auc:0.996944+0.000252319  test-auc:0.986912+0.00388876
+[135]   train-auc:0.996976+0.000247143  test-auc:0.986903+0.00388159
+[136]   train-auc:0.997007+0.00023986   test-auc:0.986919+0.00385497
+[137]   train-auc:0.997035+0.000232678  test-auc:0.98695+0.00384647
+[138]   train-auc:0.997076+0.000227147  test-auc:0.986964+0.00378615
+[139]   train-auc:0.997133+0.000226771  test-auc:0.986985+0.00378007
+[140]   train-auc:0.997175+0.000204083  test-auc:0.987026+0.00376368
+[141]   train-auc:0.997203+0.000195735  test-auc:0.987047+0.00374371
+[142]   train-auc:0.997231+0.000196485  test-auc:0.987049+0.00373997
+[143]   train-auc:0.99727+0.000199945   test-auc:0.987081+0.003735
+[144]   train-auc:0.997297+0.00020422   test-auc:0.987115+0.00373014
+[145]   train-auc:0.997317+0.000210939  test-auc:0.987137+0.00370574
+[146]   train-auc:0.997342+0.000209886  test-auc:0.987163+0.00368067
+[147]   train-auc:0.997372+0.000214723  test-auc:0.987162+0.00366515
+[148]   train-auc:0.997392+0.000211099  test-auc:0.98721+0.00365696
+[149]   train-auc:0.997426+0.000199777  test-auc:0.987186+0.00364295
+[150]   train-auc:0.997452+0.000196256  test-auc:0.987171+0.00362677
+[151]   train-auc:0.99747+0.000196541   test-auc:0.987202+0.00360058
+[152]   train-auc:0.997499+0.000190205  test-auc:0.987227+0.00359401
+[153]   train-auc:0.997523+0.000187902  test-auc:0.987254+0.00355
+[154]   train-auc:0.99756+0.000196143   test-auc:0.98727+0.00355061
+[155]   train-auc:0.997577+0.000202538  test-auc:0.987252+0.00355888
+[156]   train-auc:0.997601+0.000210157  test-auc:0.987255+0.00356788
+[157]   train-auc:0.997629+0.000227572  test-auc:0.987244+0.00354757
+[158]   train-auc:0.997654+0.000222817  test-auc:0.987246+0.0035205
+[159]   train-auc:0.997678+0.000218843  test-auc:0.987298+0.00348936
+[160]   train-auc:0.997699+0.000227738  test-auc:0.98732+0.00348135
+[161]   train-auc:0.99772+0.000229793   test-auc:0.987344+0.00345932
+[162]   train-auc:0.997743+0.000224816  test-auc:0.987363+0.00345707
+[163]   train-auc:0.997794+0.000244044  test-auc:0.987366+0.00346286
+[164]   train-auc:0.997815+0.000249448  test-auc:0.987384+0.00346899
+[165]   train-auc:0.997843+0.000250439  test-auc:0.987394+0.00347686
+[166]   train-auc:0.997852+0.000248379  test-auc:0.987418+0.00345827
+[167]   train-auc:0.997869+0.000240031  test-auc:0.987433+0.00342367
+[168]   train-auc:0.997887+0.000247151  test-auc:0.98743+0.00341639
+[169]   train-auc:0.997903+0.000244764  test-auc:0.987441+0.00341126
+[170]   train-auc:0.997933+0.000234257  test-auc:0.987452+0.00338783
+[171]   train-auc:0.997959+0.000227474  test-auc:0.987491+0.00342052
+[172]   train-auc:0.997972+0.000219371  test-auc:0.987497+0.00344886
+[173]   train-auc:0.997991+0.000221013  test-auc:0.987501+0.00343541
+[174]   train-auc:0.998014+0.000216947  test-auc:0.987474+0.00346781
+[175]   train-auc:0.998044+0.000230003  test-auc:0.987493+0.00345511
+[176]   train-auc:0.998059+0.000225399  test-auc:0.987497+0.00346585
+[177]   train-auc:0.998071+0.00022449   test-auc:0.987516+0.00344961
+[178]   train-auc:0.998094+0.000222003  test-auc:0.987554+0.00341504
+[179]   train-auc:0.998106+0.000218234  test-auc:0.987569+0.00340956
+[180]   train-auc:0.998127+0.000209837  test-auc:0.987608+0.00337739
+[181]   train-auc:0.998148+0.000215164  test-auc:0.987634+0.00338222
+[182]   train-auc:0.998167+0.000221611  test-auc:0.987674+0.00334613
+[183]   train-auc:0.998196+0.000225114  test-auc:0.987655+0.00338036
+[184]   train-auc:0.998211+0.000242621  test-auc:0.987658+0.00338783
+[185]   train-auc:0.99822+0.000236961   test-auc:0.987658+0.00339107
+[186]   train-auc:0.998242+0.000240795  test-auc:0.987661+0.00337108
+[187]   train-auc:0.998249+0.000240006  test-auc:0.987686+0.00335286
+[188]   train-auc:0.998266+0.000237491  test-auc:0.987696+0.00334566
+[189]   train-auc:0.998273+0.000236373  test-auc:0.987731+0.00333898
+[190]   train-auc:0.998288+0.000238839  test-auc:0.987707+0.00334894
+[191]   train-auc:0.998297+0.000243338  test-auc:0.987704+0.00335605
+[192]   train-auc:0.998314+0.000242523  test-auc:0.987729+0.00335973
+[193]   train-auc:0.998327+0.000241208  test-auc:0.987761+0.00336624
+[194]   train-auc:0.998346+0.000250543  test-auc:0.987766+0.00335825
+[195]   train-auc:0.998366+0.00025361   test-auc:0.987813+0.00331556
+[196]   train-auc:0.998375+0.000245077  test-auc:0.987824+0.00331738
+[197]   train-auc:0.998391+0.000236381  test-auc:0.98782+0.00331818
+[198]   train-auc:0.998402+0.000240055  test-auc:0.987838+0.00329812
+[199]   train-auc:0.998419+0.000239018  test-auc:0.987852+0.00328472
+the best n_estimatorsï¼?200
+CCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 1}
+Auccuracy: 0.874506224568
+
+Model Report
+accuracy_score : 0.9872
+precision_score: 0.9905
+recall_score: 0.8889
+AUC Score (Train): 0.997323
+load train matrix sucess!!
+[0]     train-auc:0.927165+0.000850491  test-auc:0.923233+0.00400206
+[1]     train-auc:0.930305+0.00263572   test-auc:0.925059+0.00452552
+[2]     train-auc:0.933072+0.0021364    test-auc:0.927973+0.00588471
+[3]     train-auc:0.937095+0.000335013  test-auc:0.930664+0.00517855
+[4]     train-auc:0.939054+0.00195326   test-auc:0.932721+0.00486432
+[5]     train-auc:0.943479+0.00136274   test-auc:0.937407+0.00340353
+[6]     train-auc:0.944332+0.00108694   test-auc:0.93868+0.00327888
+[7]     train-auc:0.945566+0.00151183   test-auc:0.939799+0.00232371
+[8]     train-auc:0.946433+0.00116148   test-auc:0.940125+0.00268157
+[9]     train-auc:0.946938+0.00125147   test-auc:0.940622+0.00291406
+[10]    train-auc:0.948022+0.00118717   test-auc:0.941413+0.0022778
+[11]    train-auc:0.949653+0.00102812   test-auc:0.942985+0.00222994
+[12]    train-auc:0.952177+0.000989542  test-auc:0.945242+0.00321195
+[13]    train-auc:0.953647+0.000514339  test-auc:0.946696+0.00374144
+[14]    train-auc:0.955268+0.00114352   test-auc:0.947358+0.00360517
+[15]    train-auc:0.956648+0.00135441   test-auc:0.948815+0.00349593
+[16]    train-auc:0.957202+0.00163805   test-auc:0.949262+0.00389862
+[17]    train-auc:0.959266+0.00212443   test-auc:0.951141+0.00303421
+[18]    train-auc:0.960353+0.00084573   test-auc:0.952015+0.00294303
+[19]    train-auc:0.96157+0.00103757    test-auc:0.952923+0.00296742
+[20]    train-auc:0.962461+0.000826817  test-auc:0.953841+0.00297935
+[21]    train-auc:0.96303+0.000699896   test-auc:0.954174+0.0028063
+[22]    train-auc:0.963734+0.000575119  test-auc:0.954729+0.00271159
+[23]    train-auc:0.964154+0.000345525  test-auc:0.955007+0.00289972
+[24]    train-auc:0.964975+0.000710004  test-auc:0.955625+0.00265159
+[25]    train-auc:0.965628+0.000511212  test-auc:0.955828+0.00276471
+[26]    train-auc:0.966322+0.00059173   test-auc:0.956326+0.00309744
+[27]    train-auc:0.966834+0.000612417  test-auc:0.956485+0.00332319
+[28]    train-auc:0.967511+0.000673589  test-auc:0.957327+0.0033178
+[29]    train-auc:0.968145+0.000849688  test-auc:0.957748+0.00316465
+[30]    train-auc:0.968684+0.00081988   test-auc:0.958163+0.00319419
+[31]    train-auc:0.96948+0.000847547   test-auc:0.95885+0.00242382
+[32]    train-auc:0.969872+0.000738698  test-auc:0.959314+0.00225743
+[33]    train-auc:0.970441+0.000791478  test-auc:0.959728+0.00247928
+[34]    train-auc:0.971118+0.00072135   test-auc:0.960141+0.00250158
+[35]    train-auc:0.97153+0.000662806   test-auc:0.960437+0.00255584
+[36]    train-auc:0.971925+0.00051616   test-auc:0.960615+0.00255389
+[37]    train-auc:0.972325+0.000588044  test-auc:0.960935+0.00246649
+[38]    train-auc:0.972865+0.000606444  test-auc:0.961178+0.00237098
+[39]    train-auc:0.973311+0.000477408  test-auc:0.961428+0.00221672
+[40]    train-auc:0.97363+0.000502133   test-auc:0.961832+0.00234069
+[41]    train-auc:0.97391+0.000495297   test-auc:0.962002+0.00230814
+[42]    train-auc:0.97418+0.000445634   test-auc:0.962107+0.00219851
+[43]    train-auc:0.974588+0.000497888  test-auc:0.962492+0.0021133
+[44]    train-auc:0.975077+0.000608649  test-auc:0.962877+0.00205755
+[45]    train-auc:0.975367+0.000647863  test-auc:0.963086+0.00206962
+[46]    train-auc:0.975663+0.000652176  test-auc:0.963278+0.00196262
+[47]    train-auc:0.975893+0.000642474  test-auc:0.963556+0.00194557
+[48]    train-auc:0.976207+0.000740627  test-auc:0.963709+0.0019442
+[49]    train-auc:0.976412+0.000747801  test-auc:0.963913+0.00191166
+[50]    train-auc:0.976655+0.000699389  test-auc:0.964076+0.00180778
+[51]    train-auc:0.977091+0.000725482  test-auc:0.964232+0.00186039
+[52]    train-auc:0.977372+0.000757466  test-auc:0.964389+0.00178775
+[53]    train-auc:0.977586+0.000742342  test-auc:0.964495+0.00181978
+[54]    train-auc:0.977886+0.000702663  test-auc:0.964789+0.00186058
+[55]    train-auc:0.978186+0.000677154  test-auc:0.964999+0.00194949
+[56]    train-auc:0.978352+0.000710554  test-auc:0.965181+0.00198463
+[57]    train-auc:0.978632+0.000595134  test-auc:0.9654+0.00212207
+[58]    train-auc:0.978797+0.000586583  test-auc:0.965607+0.00213174
+[59]    train-auc:0.97897+0.000594243   test-auc:0.965778+0.00210471
+[60]    train-auc:0.979175+0.00053298   test-auc:0.965922+0.0021132
+[61]    train-auc:0.979454+0.000534124  test-auc:0.966153+0.00214355
+[62]    train-auc:0.979622+0.000587281  test-auc:0.966324+0.00216769
+[63]    train-auc:0.97982+0.000660367   test-auc:0.96642+0.00216038
+[64]    train-auc:0.980001+0.0006813    test-auc:0.966525+0.0021994
+[65]    train-auc:0.980251+0.000668754  test-auc:0.966706+0.00211488
+[66]    train-auc:0.98038+0.000673473   test-auc:0.966748+0.0021383
+[67]    train-auc:0.980504+0.000628961  test-auc:0.966955+0.00210742
+[68]    train-auc:0.980696+0.000622149  test-auc:0.967146+0.00212184
+[69]    train-auc:0.980825+0.000614416  test-auc:0.967221+0.00215662
+[70]    train-auc:0.980967+0.000615324  test-auc:0.967334+0.00214459
+[71]    train-auc:0.9812+0.000798524    test-auc:0.967458+0.00215397
+[72]    train-auc:0.981396+0.000809205  test-auc:0.96759+0.00221325
+[73]    train-auc:0.981502+0.000799899  test-auc:0.967702+0.00215719
+[74]    train-auc:0.981695+0.000786176  test-auc:0.967802+0.00213704
+[75]    train-auc:0.981797+0.000769487  test-auc:0.967944+0.00216676
+[76]    train-auc:0.981928+0.000724139  test-auc:0.968063+0.00222287
+[77]    train-auc:0.982135+0.000658735  test-auc:0.968152+0.0022191
+[78]    train-auc:0.982273+0.000670595  test-auc:0.968284+0.00221338
+[79]    train-auc:0.982421+0.000652721  test-auc:0.968445+0.00224028
+[80]    train-auc:0.982543+0.000647647  test-auc:0.968572+0.00221069
+[81]    train-auc:0.982642+0.000656844  test-auc:0.9687+0.00228656
+[82]    train-auc:0.982812+0.000639584  test-auc:0.96871+0.00228511
+[83]    train-auc:0.982962+0.000592186  test-auc:0.968939+0.00237916
+[84]    train-auc:0.983122+0.000598909  test-auc:0.969054+0.00231377
+[85]    train-auc:0.983347+0.000598904  test-auc:0.969171+0.00241192
+[86]    train-auc:0.983474+0.000602292  test-auc:0.969211+0.00243437
+[87]    train-auc:0.983667+0.000579484  test-auc:0.969402+0.00242602
+[88]    train-auc:0.983772+0.000578199  test-auc:0.969495+0.00234903
+[89]    train-auc:0.983916+0.000604592  test-auc:0.969584+0.0022866
+[90]    train-auc:0.984041+0.000585409  test-auc:0.969666+0.00229227
+[91]    train-auc:0.984217+0.000664771  test-auc:0.969845+0.00219696
+[92]    train-auc:0.984317+0.00067833   test-auc:0.969957+0.0021792
+[93]    train-auc:0.984465+0.000706775  test-auc:0.970063+0.00219143
+[94]    train-auc:0.984627+0.000761571  test-auc:0.970214+0.00222128
+[95]    train-auc:0.984839+0.000714838  test-auc:0.97035+0.00224358
+[96]    train-auc:0.984944+0.000740972  test-auc:0.970422+0.0022792
+[97]    train-auc:0.985024+0.000779375  test-auc:0.970429+0.00229719
+[98]    train-auc:0.985112+0.000767171  test-auc:0.970502+0.0023333
+[99]    train-auc:0.985244+0.000737506  test-auc:0.970571+0.00228616
+[100]   train-auc:0.985349+0.000751813  test-auc:0.970634+0.00226376
+[101]   train-auc:0.985503+0.000687776  test-auc:0.970732+0.00231121
+[102]   train-auc:0.985656+0.000720566  test-auc:0.970843+0.00225394
+[103]   train-auc:0.98573+0.000750846   test-auc:0.970921+0.00227858
+[104]   train-auc:0.985818+0.000742286  test-auc:0.970953+0.00228422
+[105]   train-auc:0.985962+0.000727907  test-auc:0.971073+0.00230224
+[106]   train-auc:0.986027+0.000734413  test-auc:0.971101+0.00227166
+[107]   train-auc:0.986198+0.000694669  test-auc:0.971218+0.00232299
+[108]   train-auc:0.986281+0.000698005  test-auc:0.971265+0.00231536
+[109]   train-auc:0.986358+0.00070718   test-auc:0.971342+0.00233784
+[110]   train-auc:0.986463+0.000696704  test-auc:0.971457+0.00238832
+[111]   train-auc:0.986503+0.000697817  test-auc:0.971517+0.00237593
+[112]   train-auc:0.986603+0.000672561  test-auc:0.971586+0.00238294
+[113]   train-auc:0.986712+0.00062809   test-auc:0.971571+0.00235743
+[114]   train-auc:0.986889+0.000658142  test-auc:0.971706+0.00230876
+[115]   train-auc:0.98699+0.000638936   test-auc:0.971769+0.00229724
+[116]   train-auc:0.987048+0.000635668  test-auc:0.971813+0.0022764
+[117]   train-auc:0.987137+0.000611958  test-auc:0.971873+0.00227393
+[118]   train-auc:0.987209+0.000611243  test-auc:0.971956+0.00229965
+[119]   train-auc:0.987292+0.000615395  test-auc:0.971966+0.00230248
+[120]   train-auc:0.98736+0.000599177   test-auc:0.972002+0.00233133
+[121]   train-auc:0.987481+0.000559708  test-auc:0.9721+0.00236591
+[122]   train-auc:0.987576+0.000527785  test-auc:0.972196+0.00247052
+[123]   train-auc:0.987658+0.000509808  test-auc:0.972211+0.00246971
+[124]   train-auc:0.987707+0.00050311   test-auc:0.972253+0.00247264
+[125]   train-auc:0.9878+0.000584214    test-auc:0.972334+0.0024436
+[126]   train-auc:0.987919+0.000563995  test-auc:0.972369+0.00248723
+[127]   train-auc:0.987996+0.000572421  test-auc:0.972412+0.00248037
+[128]   train-auc:0.988052+0.000578484  test-auc:0.972472+0.00254513
+[129]   train-auc:0.988138+0.000579844  test-auc:0.97254+0.0025391
+[130]   train-auc:0.988238+0.000570356  test-auc:0.972611+0.00253699
+[131]   train-auc:0.988294+0.000567329  test-auc:0.972617+0.00255064
+[132]   train-auc:0.988338+0.000571481  test-auc:0.972659+0.00254442
+[133]   train-auc:0.988413+0.00057034   test-auc:0.972737+0.00252675
+[134]   train-auc:0.988495+0.000563501  test-auc:0.972804+0.00247158
+[135]   train-auc:0.988539+0.000554709  test-auc:0.972891+0.00248752
+[136]   train-auc:0.988634+0.000530078  test-auc:0.972974+0.00249617
+[137]   train-auc:0.988709+0.00051908   test-auc:0.973069+0.00246394
+[138]   train-auc:0.988791+0.00052934   test-auc:0.973097+0.00246798
+[139]   train-auc:0.988858+0.000522728  test-auc:0.973094+0.00244743
+[140]   train-auc:0.988936+0.000524847  test-auc:0.973174+0.00246299
+[141]   train-auc:0.989012+0.000550144  test-auc:0.973245+0.00245264
+[142]   train-auc:0.989099+0.000531345  test-auc:0.973286+0.0024886
+[143]   train-auc:0.989165+0.000529688  test-auc:0.97328+0.00245252
+[144]   train-auc:0.989247+0.000488321  test-auc:0.973289+0.00247332
+[145]   train-auc:0.989329+0.000526389  test-auc:0.973253+0.0025052
+[146]   train-auc:0.989405+0.000549647  test-auc:0.973285+0.00252238
+[147]   train-auc:0.98947+0.00055132    test-auc:0.97332+0.00252662
+[148]   train-auc:0.989539+0.000584503  test-auc:0.973348+0.00249467
+[149]   train-auc:0.989595+0.000565917  test-auc:0.9734+0.0024891
+[150]   train-auc:0.989683+0.000566526  test-auc:0.973426+0.00248264
+[151]   train-auc:0.989772+0.000546225  test-auc:0.973485+0.00253613
+[152]   train-auc:0.989819+0.000539579  test-auc:0.973486+0.00254391
+[153]   train-auc:0.989885+0.000534014  test-auc:0.973527+0.00256895
+[154]   train-auc:0.989941+0.000529745  test-auc:0.973545+0.00257281
+[155]   train-auc:0.989999+0.000522784  test-auc:0.973555+0.0025298
+[156]   train-auc:0.990052+0.000529456  test-auc:0.973594+0.00250498
+[157]   train-auc:0.990099+0.000541167  test-auc:0.973639+0.00253425
+[158]   train-auc:0.990153+0.000530208  test-auc:0.973682+0.00253185
+[159]   train-auc:0.990194+0.00053404   test-auc:0.973729+0.00249387
+[160]   train-auc:0.990245+0.000524699  test-auc:0.973777+0.00248954
+[161]   train-auc:0.990324+0.000534646  test-auc:0.973836+0.00251995
+[162]   train-auc:0.990375+0.000535651  test-auc:0.97386+0.00251142
+[163]   train-auc:0.990443+0.000520485  test-auc:0.973994+0.00252485
+[164]   train-auc:0.990498+0.000523265  test-auc:0.974026+0.00251528
+[165]   train-auc:0.990564+0.000520297  test-auc:0.974071+0.0024824
+[166]   train-auc:0.990628+0.000509092  test-auc:0.974158+0.00253275
+[167]   train-auc:0.990682+0.000532865  test-auc:0.974197+0.00256318
+[168]   train-auc:0.990738+0.000509082  test-auc:0.974207+0.00254159
+[169]   train-auc:0.990792+0.000505991  test-auc:0.974238+0.00256368
+[170]   train-auc:0.990832+0.000498788  test-auc:0.974278+0.00254781
+[171]   train-auc:0.990876+0.00048276   test-auc:0.974302+0.00257412
+[172]   train-auc:0.990926+0.000479906  test-auc:0.974349+0.00257422
+[173]   train-auc:0.990958+0.000473498  test-auc:0.97437+0.00259029
+[174]   train-auc:0.991001+0.00046818   test-auc:0.974404+0.00259497
+[175]   train-auc:0.991072+0.000436158  test-auc:0.974443+0.00265582
+[176]   train-auc:0.99113+0.00043876    test-auc:0.974477+0.00264985
+[177]   train-auc:0.991187+0.00044244   test-auc:0.974498+0.00265173
+[178]   train-auc:0.991244+0.000446037  test-auc:0.974522+0.00260683
+[179]   train-auc:0.991286+0.00044942   test-auc:0.974545+0.00259578
+[180]   train-auc:0.991315+0.000439367  test-auc:0.97456+0.00257932
+[181]   train-auc:0.991363+0.000429221  test-auc:0.974607+0.00258249
+[182]   train-auc:0.991414+0.000430082  test-auc:0.974655+0.00256227
+[183]   train-auc:0.991448+0.000423523  test-auc:0.97469+0.00255396
+[184]   train-auc:0.991496+0.000425465  test-auc:0.974675+0.00254142
+[185]   train-auc:0.991538+0.000414856  test-auc:0.974705+0.00254533
+[186]   train-auc:0.991573+0.000410516  test-auc:0.974722+0.00253767
+[187]   train-auc:0.991628+0.000406134  test-auc:0.974765+0.00251569
+[188]   train-auc:0.991661+0.00040725   test-auc:0.974767+0.00249943
+[189]   train-auc:0.99172+0.000387629   test-auc:0.974801+0.00253165
+[190]   train-auc:0.991748+0.000401772  test-auc:0.974805+0.00257001
+[191]   train-auc:0.991796+0.000396659  test-auc:0.974848+0.00260249
+[192]   train-auc:0.991851+0.00039805   test-auc:0.974873+0.00259968
+[193]   train-auc:0.991901+0.00038363   test-auc:0.974889+0.00258913
+[194]   train-auc:0.991944+0.000417052  test-auc:0.974918+0.00257957
+[195]   train-auc:0.992004+0.00042784   test-auc:0.974967+0.00260985
+[196]   train-auc:0.99206+0.000409141   test-auc:0.974997+0.00264522
+[197]   train-auc:0.992112+0.000395508  test-auc:0.975057+0.00263205
+[198]   train-auc:0.992157+0.000382233  test-auc:0.975079+0.00261571
+[199]   train-auc:0.992216+0.000366895  test-auc:0.975109+0.00264395
+the best n_estimatorsï¼?200
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 1}
+Auccuracy: 0.917290348612
+
+Model Report
+accuracy_score : 0.9863
+precision_score: 0.9682
+recall_score: 0.9882
+AUC Score (Train): 0.998779
+load train matrix sucess!!
+[13:34:59] dmlc-core/include/dmlc/logging.h:300: [13:34:59] src/metric/rank_metric.cc:135: Check failed: !auc_error AUC: the dataset only contains pos or neg samples
+fail in  3 probabily count less!!
+load train matrix sucess!!
+[0]     train-auc:0.543772+0.00489535   test-auc:0.52887+0.00921856
+[1]     train-auc:0.550016+0.00255048   test-auc:0.53321+0.0115217
+[2]     train-auc:0.554563+0.00352427   test-auc:0.536912+0.0140633
+[3]     train-auc:0.562304+0.00565853   test-auc:0.543277+0.0122625
+[4]     train-auc:0.570972+0.00808828   test-auc:0.544791+0.00981918
+[5]     train-auc:0.58096+0.00870433    test-auc:0.548848+0.0127451
+[6]     train-auc:0.616815+0.036125     test-auc:0.570074+0.0316342
+[7]     train-auc:0.65497+0.0347822     test-auc:0.595469+0.0229697
+[8]     train-auc:0.677799+0.0547525    test-auc:0.607309+0.0392662
+[9]     train-auc:0.71902+0.0461092     test-auc:0.642023+0.0442063
+[10]    train-auc:0.759864+0.0251205    test-auc:0.67942+0.0382084
+[11]    train-auc:0.766976+0.0208437    test-auc:0.682003+0.0337146
+[12]    train-auc:0.784724+0.0234093    test-auc:0.696572+0.0204058
+[13]    train-auc:0.799049+0.0100151    test-auc:0.70435+0.032346
+[14]    train-auc:0.813909+0.00719049   test-auc:0.717866+0.0304996
+[15]    train-auc:0.826713+0.00744041   test-auc:0.731342+0.0239814
+[16]    train-auc:0.837838+0.00513714   test-auc:0.739481+0.0231341
+[17]    train-auc:0.842046+0.00781031   test-auc:0.744901+0.0237275
+[18]    train-auc:0.845811+0.00813995   test-auc:0.746599+0.0207427
+[19]    train-auc:0.850439+0.00905179   test-auc:0.747817+0.0200727
+[20]    train-auc:0.856858+0.00590419   test-auc:0.751169+0.0168721
+[21]    train-auc:0.861262+0.00615706   test-auc:0.752689+0.0165952
+[22]    train-auc:0.865409+0.00560922   test-auc:0.753535+0.0203663
+[23]    train-auc:0.868865+0.0064501    test-auc:0.758406+0.0212295
+[24]    train-auc:0.872867+0.00646376   test-auc:0.761225+0.0235249
+[25]    train-auc:0.875651+0.00602921   test-auc:0.764667+0.0233726
+[26]    train-auc:0.880558+0.00467393   test-auc:0.766973+0.0232372
+[27]    train-auc:0.883089+0.00371643   test-auc:0.767847+0.0226568
+[28]    train-auc:0.886996+0.00456652   test-auc:0.772139+0.0217865
+[29]    train-auc:0.889621+0.00397263   test-auc:0.776021+0.0211451
+[30]    train-auc:0.892697+0.00379464   test-auc:0.779168+0.0181957
+[31]    train-auc:0.896616+0.00227368   test-auc:0.780718+0.0199244
+[32]    train-auc:0.899098+0.00286963   test-auc:0.783606+0.0193049
+[33]    train-auc:0.902314+0.00191789   test-auc:0.786286+0.0178788
+[34]    train-auc:0.904591+0.00165223   test-auc:0.7879+0.0180087
+[35]    train-auc:0.907117+0.00320757   test-auc:0.790368+0.0153278
+[36]    train-auc:0.910717+0.00235701   test-auc:0.792856+0.0145048
+[37]    train-auc:0.912014+0.00231037   test-auc:0.794353+0.0150603
+[38]    train-auc:0.914029+0.00083992   test-auc:0.798997+0.0139514
+[39]    train-auc:0.917041+0.0021693    test-auc:0.801004+0.0122362
+[40]    train-auc:0.919016+0.00197251   test-auc:0.802546+0.0127154
+[41]    train-auc:0.920869+0.00219913   test-auc:0.804987+0.0135021
+[42]    train-auc:0.922702+0.00147778   test-auc:0.805438+0.0135951
+[43]    train-auc:0.924039+0.00190444   test-auc:0.808156+0.0128567
+[44]    train-auc:0.924854+0.00193984   test-auc:0.809181+0.0129969
+[45]    train-auc:0.926069+0.00152755   test-auc:0.810049+0.0125428
+[46]    train-auc:0.927205+0.0016261    test-auc:0.812002+0.0123903
+[47]    train-auc:0.928931+0.00171564   test-auc:0.811308+0.0125548
+[48]    train-auc:0.930045+0.00180732   test-auc:0.812684+0.0124292
+[49]    train-auc:0.930984+0.00210953   test-auc:0.813432+0.0111652
+[50]    train-auc:0.932804+0.00202203   test-auc:0.812946+0.010874
+[51]    train-auc:0.933818+0.00227586   test-auc:0.813615+0.0112559
+[52]    train-auc:0.935135+0.00266221   test-auc:0.814861+0.0103182
+[53]    train-auc:0.93665+0.00330596    test-auc:0.815663+0.00953603
+[54]    train-auc:0.937788+0.00360314   test-auc:0.816594+0.00877536
+[55]    train-auc:0.938554+0.00295231   test-auc:0.817167+0.0091839
+[56]    train-auc:0.939097+0.00289953   test-auc:0.817645+0.00962669
+[57]    train-auc:0.94057+0.00304454    test-auc:0.818244+0.00999182
+[58]    train-auc:0.941359+0.00301866   test-auc:0.818889+0.0107445
+[59]    train-auc:0.942554+0.00250591   test-auc:0.820664+0.00931381
+[60]    train-auc:0.943523+0.00283558   test-auc:0.822574+0.009553
+[61]    train-auc:0.944554+0.00265944   test-auc:0.823548+0.00900486
+[62]    train-auc:0.945346+0.00255413   test-auc:0.825283+0.00784748
+[63]    train-auc:0.946176+0.00230476   test-auc:0.826748+0.00729141
+[64]    train-auc:0.946697+0.00270341   test-auc:0.827591+0.00789659
+[65]    train-auc:0.947041+0.00279643   test-auc:0.828173+0.00824188
+[66]    train-auc:0.947569+0.00264767   test-auc:0.828737+0.00820945
+[67]    train-auc:0.94796+0.00250054    test-auc:0.828951+0.00797863
+[68]    train-auc:0.948588+0.00263058   test-auc:0.829413+0.00818231
+[69]    train-auc:0.949522+0.00268643   test-auc:0.830907+0.00868654
+[70]    train-auc:0.950105+0.00273698   test-auc:0.831988+0.00833635
+[71]    train-auc:0.950914+0.0029798    test-auc:0.832543+0.00764527
+[72]    train-auc:0.951508+0.00273315   test-auc:0.832988+0.00721034
+[73]    train-auc:0.952154+0.00293166   test-auc:0.833684+0.00741502
+[74]    train-auc:0.952774+0.00316928   test-auc:0.834454+0.00787705
+[75]    train-auc:0.953199+0.00330431   test-auc:0.835635+0.0078849
+[76]    train-auc:0.953582+0.00333035   test-auc:0.836572+0.00815837
+[77]    train-auc:0.953934+0.00323781   test-auc:0.837775+0.00774807
+[78]    train-auc:0.954404+0.00324564   test-auc:0.838556+0.00752035
+[79]    train-auc:0.955116+0.00289686   test-auc:0.839759+0.00730637
+[80]    train-auc:0.955489+0.00278832   test-auc:0.840967+0.00757859
+[81]    train-auc:0.956209+0.00261175   test-auc:0.841492+0.00682102
+[82]    train-auc:0.956514+0.00277786   test-auc:0.841964+0.0068986
+[83]    train-auc:0.957143+0.00263862   test-auc:0.842294+0.00711483
+[84]    train-auc:0.958001+0.00303511   test-auc:0.843278+0.00614387
+[85]    train-auc:0.958372+0.0029479    test-auc:0.843452+0.00647765
+[86]    train-auc:0.95897+0.00285953    test-auc:0.843977+0.00583088
+[87]    train-auc:0.959364+0.00294936   test-auc:0.844816+0.00693701
+[88]    train-auc:0.960009+0.00251326   test-auc:0.844847+0.006662
+[89]    train-auc:0.960449+0.00241554   test-auc:0.845534+0.00657669
+[90]    train-auc:0.96064+0.00242126    test-auc:0.845542+0.00617612
+[91]    train-auc:0.961059+0.00263837   test-auc:0.846187+0.00637921
+[92]    train-auc:0.961454+0.00248572   test-auc:0.846581+0.00676314
+[93]    train-auc:0.961947+0.00227254   test-auc:0.847142+0.00715064
+[94]    train-auc:0.962287+0.00241549   test-auc:0.847219+0.00729182
+[95]    train-auc:0.962529+0.00258907   test-auc:0.847544+0.00719418
+[96]    train-auc:0.962875+0.00239309   test-auc:0.848205+0.00741482
+[97]    train-auc:0.96319+0.00224073    test-auc:0.848815+0.00695401
+[98]    train-auc:0.963699+0.00221394   test-auc:0.849644+0.00656628
+[99]    train-auc:0.963926+0.00220878   test-auc:0.849717+0.00626063
+[100]   train-auc:0.964166+0.00215802   test-auc:0.849471+0.00665883
+[101]   train-auc:0.964358+0.0021577    test-auc:0.849781+0.00678353
+[102]   train-auc:0.965065+0.00172498   test-auc:0.85009+0.00706762
+[103]   train-auc:0.965548+0.00160324   test-auc:0.849986+0.00691339
+[104]   train-auc:0.965857+0.00157769   test-auc:0.850231+0.00727507
+[105]   train-auc:0.966206+0.00154264   test-auc:0.850651+0.00718035
+[106]   train-auc:0.966406+0.00161553   test-auc:0.850686+0.00711969
+[107]   train-auc:0.966908+0.00157887   test-auc:0.850919+0.00743768
+[108]   train-auc:0.967162+0.00151934   test-auc:0.851345+0.00742253
+[109]   train-auc:0.967723+0.0012876    test-auc:0.851153+0.00726724
+[110]   train-auc:0.968036+0.00127427   test-auc:0.85177+0.00721117
+[111]   train-auc:0.968247+0.0013654    test-auc:0.852113+0.00678925
+[112]   train-auc:0.968633+0.00119726   test-auc:0.852321+0.00673686
+[113]   train-auc:0.968976+0.00120374   test-auc:0.852733+0.00671315
+[114]   train-auc:0.969103+0.00119648   test-auc:0.852907+0.00690142
+[115]   train-auc:0.969255+0.00118592   test-auc:0.853398+0.0067699
+[116]   train-auc:0.96941+0.00123571    test-auc:0.853393+0.00659514
+[117]   train-auc:0.969539+0.00122414   test-auc:0.853435+0.00674541
+[118]   train-auc:0.969891+0.000978388  test-auc:0.853817+0.006527
+[119]   train-auc:0.970106+0.000836908  test-auc:0.853942+0.00631402
+[120]   train-auc:0.970283+0.000886187  test-auc:0.853887+0.00683527
+[121]   train-auc:0.970534+0.000879892  test-auc:0.853776+0.00685301
+[122]   train-auc:0.970877+0.00081253   test-auc:0.854323+0.00662708
+[123]   train-auc:0.971148+0.000827611  test-auc:0.854396+0.00688977
+[124]   train-auc:0.971334+0.000856826  test-auc:0.854434+0.00689378
+[125]   train-auc:0.971627+0.000841927  test-auc:0.854544+0.00663365
+[126]   train-auc:0.971735+0.000904751  test-auc:0.854974+0.0064896
+[127]   train-auc:0.972047+0.000930634  test-auc:0.855285+0.00642137
+[128]   train-auc:0.972287+0.000831736  test-auc:0.855071+0.006635
+[129]   train-auc:0.972522+0.00081257   test-auc:0.855412+0.0066775
+[130]   train-auc:0.972687+0.000834512  test-auc:0.855295+0.00630805
+[131]   train-auc:0.972929+0.000854138  test-auc:0.855565+0.00627462
+[132]   train-auc:0.973118+0.000719478  test-auc:0.855999+0.00668255
+[133]   train-auc:0.973397+0.000582542  test-auc:0.856471+0.00684253
+[134]   train-auc:0.973697+0.000502985  test-auc:0.856743+0.00663021
+[135]   train-auc:0.973985+0.000369247  test-auc:0.857043+0.00663615
+[136]   train-auc:0.974162+0.000312329  test-auc:0.857356+0.00658254
+[137]   train-auc:0.974398+0.000333943  test-auc:0.857312+0.00638792
+[138]   train-auc:0.974563+0.000367256  test-auc:0.857497+0.00600337
+[139]   train-auc:0.974776+0.000413401  test-auc:0.85789+0.00608538
+[140]   train-auc:0.974923+0.000435906  test-auc:0.858215+0.00622593
+[141]   train-auc:0.975074+0.000400496  test-auc:0.858674+0.00591551
+[142]   train-auc:0.975391+0.000145685  test-auc:0.858561+0.00581063
+[143]   train-auc:0.97565+0.000343653   test-auc:0.858779+0.00576854
+[144]   train-auc:0.975886+0.000421189  test-auc:0.859132+0.00628481
+[145]   train-auc:0.976175+0.000519906  test-auc:0.85905+0.00613637
+[146]   train-auc:0.976397+0.000506577  test-auc:0.858732+0.00604139
+[147]   train-auc:0.976524+0.000553091  test-auc:0.858978+0.00629087
+[148]   train-auc:0.976669+0.00050932   test-auc:0.858945+0.00654104
+[149]   train-auc:0.976801+0.000450772  test-auc:0.858787+0.00685555
+[150]   train-auc:0.976991+0.000449435  test-auc:0.859209+0.00687282
+[151]   train-auc:0.977176+0.000472884  test-auc:0.859321+0.00671117
+[152]   train-auc:0.977363+0.000485078  test-auc:0.859576+0.00688491
+[153]   train-auc:0.977605+0.000598212  test-auc:0.859294+0.00669
+[154]   train-auc:0.977734+0.000632355  test-auc:0.859291+0.00697182
+[155]   train-auc:0.977891+0.000595123  test-auc:0.859332+0.00724263
+[156]   train-auc:0.978011+0.00057565   test-auc:0.859554+0.00723717
+[157]   train-auc:0.978146+0.000533817  test-auc:0.859851+0.00719668
+[158]   train-auc:0.978269+0.000519365  test-auc:0.860211+0.00710302
+[159]   train-auc:0.9785+0.000543985    test-auc:0.860464+0.00729298
+[160]   train-auc:0.978833+0.000607555  test-auc:0.860663+0.0077431
+[161]   train-auc:0.979005+0.000590548  test-auc:0.860978+0.00795816
+[162]   train-auc:0.979129+0.000580852  test-auc:0.861042+0.00801951
+[163]   train-auc:0.979288+0.000543147  test-auc:0.861056+0.00833073
+[164]   train-auc:0.979393+0.000511951  test-auc:0.861129+0.00838036
+[165]   train-auc:0.97955+0.00052645    test-auc:0.861081+0.00847614
+[166]   train-auc:0.97971+0.000527779   test-auc:0.8613+0.00854738
+[167]   train-auc:0.979814+0.000483661  test-auc:0.861452+0.00833265
+[168]   train-auc:0.979924+0.00047872   test-auc:0.861641+0.00826559
+[169]   train-auc:0.98018+0.000474261   test-auc:0.861896+0.00871035
+[170]   train-auc:0.98033+0.000580714   test-auc:0.862143+0.00902986
+[171]   train-auc:0.980524+0.000629134  test-auc:0.862063+0.00901801
+[172]   train-auc:0.98067+0.000587892   test-auc:0.862066+0.00898202
+[173]   train-auc:0.980784+0.000578022  test-auc:0.862039+0.00885614
+[174]   train-auc:0.98094+0.000625738   test-auc:0.862303+0.00879587
+[175]   train-auc:0.981043+0.000613343  test-auc:0.861951+0.00879081
+[176]   train-auc:0.981192+0.000573951  test-auc:0.861762+0.00913895
+[177]   train-auc:0.981343+0.000595692  test-auc:0.862216+0.00925055
+[178]   train-auc:0.9814+0.000538687    test-auc:0.862131+0.00933824
+[179]   train-auc:0.98163+0.000473518   test-auc:0.862119+0.00958248
+[180]   train-auc:0.981798+0.000499696  test-auc:0.862327+0.00946537
+[181]   train-auc:0.981993+0.000507254  test-auc:0.862513+0.00966946
+[182]   train-auc:0.982055+0.000509944  test-auc:0.862651+0.00988208
+[183]   train-auc:0.98217+0.000481636   test-auc:0.862758+0.00999674
+[184]   train-auc:0.982236+0.000531248  test-auc:0.862885+0.0100419
+[185]   train-auc:0.982361+0.000531952  test-auc:0.863612+0.0101486
+[186]   train-auc:0.982478+0.000523537  test-auc:0.863741+0.00997608
+[187]   train-auc:0.982603+0.000521632  test-auc:0.863984+0.0099761
+[188]   train-auc:0.98267+0.000501935   test-auc:0.864231+0.0102777
+[189]   train-auc:0.9828+0.000555381    test-auc:0.864373+0.00983945
+[190]   train-auc:0.982924+0.000548004  test-auc:0.864479+0.00993046
+[191]   train-auc:0.983013+0.000517191  test-auc:0.864534+0.00985484
+[192]   train-auc:0.983094+0.000471485  test-auc:0.864675+0.00955255
+[193]   train-auc:0.983331+0.000336481  test-auc:0.864112+0.00909049
+[194]   train-auc:0.983397+0.000356645  test-auc:0.863879+0.00950035
+[195]   train-auc:0.983485+0.00033078   test-auc:0.863977+0.00909956
+[196]   train-auc:0.983562+0.000354016  test-auc:0.864361+0.00899139
+[197]   train-auc:0.983664+0.000362629  test-auc:0.864499+0.00880796
+[198]   train-auc:0.983719+0.000343519  test-auc:0.864615+0.00889645
+[199]   train-auc:0.983821+0.000362236  test-auc:0.864708+0.00880731
+the best n_estimatorsï¼?200
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 5}
+Auccuracy: 0.961399756131
+
+Model Report
+accuracy_score : 0.9717
+precision_score: 1
+recall_score: 0.3542
+AUC Score (Train): 0.987950
+load train matrix sucess!!
+[15:54:36] dmlc-core/include/dmlc/logging.h:300: [15:54:36] src/metric/rank_metric.cc:135: Check failed: !auc_error AUC: the dataset only contains pos or neg samples
+fail in  5 probabily count less!!
+load train matrix sucess!!
+[15:54:55] dmlc-core/include/dmlc/logging.h:300: [15:54:55] src/metric/rank_metric.cc:135: Check failed: !auc_error AUC: the dataset only contains pos or neg samples
+fail in  6 probabily count less!!
+load train matrix sucess!!
+[0]     train-auc:0.999828+7.00183e-05  test-auc:0.99926+0.000459532
+[1]     train-auc:0.999877+5.71335e-05  test-auc:0.999275+0.000447997
+[2]     train-auc:0.999873+5.22341e-05  test-auc:0.999278+0.000448207
+[3]     train-auc:0.999878+3.9711e-05   test-auc:0.999281+0.000443217
+[4]     train-auc:0.999886+4.06566e-05  test-auc:0.999291+0.000427599
+[5]     train-auc:0.999892+4.13908e-05  test-auc:0.999291+0.000427599
+[6]     train-auc:0.99991+4.68376e-05   test-auc:0.999266+0.000437157
+[7]     train-auc:0.999913+4.85329e-05  test-auc:0.99928+0.000407121
+[8]     train-auc:0.99992+5.20984e-05   test-auc:0.99926+0.000429685
+[9]     train-auc:0.999937+3.56741e-05  test-auc:0.999288+0.000389297
+[10]    train-auc:0.999946+3.18936e-05  test-auc:0.999267+0.00041016
+[11]    train-auc:0.999945+3.09477e-05  test-auc:0.999269+0.000404816
+[12]    train-auc:0.999953+2.64998e-05  test-auc:0.999255+0.000419719
+[13]    train-auc:0.999957+2.48564e-05  test-auc:0.999299+0.000392887
+[14]    train-auc:0.999958+2.2912e-05   test-auc:0.999296+0.000407114
+[15]    train-auc:0.999962+2.21937e-05  test-auc:0.999292+0.000401709
+[16]    train-auc:0.999966+1.9976e-05   test-auc:0.99927+0.000418177
+[17]    train-auc:0.999967+1.86075e-05  test-auc:0.99928+0.000411215
+[18]    train-auc:0.999968+1.83478e-05  test-auc:0.999298+0.000394592
+[19]    train-auc:0.999971+1.70341e-05  test-auc:0.999285+0.000410818
+[20]    train-auc:0.999974+1.50147e-05  test-auc:0.999284+0.000416025
+[21]    train-auc:0.999976+1.43861e-05  test-auc:0.999267+0.000425002
+[22]    train-auc:0.999975+1.54583e-05  test-auc:0.999263+0.000421692
+the best n_estimatorsï¼?14
+CCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 5}
+Auccuracy: 0.997830099797
+
+Model Report
+accuracy_score : 0.9963
+precision_score: 0.6667
+recall_score: 1
+AUC Score (Train): 1.000000
+load train matrix sucess!!
+[0]     train-auc:0.924732+0.00677198   test-auc:0.917568+0.0120781
+[1]     train-auc:0.929935+0.00447032   test-auc:0.923062+0.0121564
+[2]     train-auc:0.930448+0.00379985   test-auc:0.923661+0.0126374
+[3]     train-auc:0.932552+0.00247783   test-auc:0.925317+0.0136701
+[4]     train-auc:0.938811+0.00562893   test-auc:0.932011+0.00900094
+[5]     train-auc:0.940336+0.00602583   test-auc:0.932892+0.00872628
+[6]     train-auc:0.942192+0.00661372   test-auc:0.934219+0.0079043
+[7]     train-auc:0.944612+0.00479507   test-auc:0.936767+0.00970685
+[8]     train-auc:0.946339+0.00417884   test-auc:0.936582+0.00833289
+[9]     train-auc:0.947294+0.00438808   test-auc:0.937816+0.00772421
+[10]    train-auc:0.949887+0.00299179   test-auc:0.940978+0.00891871
+[11]    train-auc:0.95057+0.00289542    test-auc:0.942703+0.0102395
+[12]    train-auc:0.953618+0.00269796   test-auc:0.945177+0.00973039
+[13]    train-auc:0.954263+0.00242822   test-auc:0.945418+0.00985056
+[14]    train-auc:0.954733+0.00226246   test-auc:0.946038+0.00990838
+[15]    train-auc:0.955222+0.00230039   test-auc:0.945835+0.00964897
+[16]    train-auc:0.955786+0.00224559   test-auc:0.945904+0.00981036
+[17]    train-auc:0.956524+0.00252      test-auc:0.946459+0.00918275
+[18]    train-auc:0.957146+0.00232138   test-auc:0.946861+0.00948036
+[19]    train-auc:0.957386+0.00235477   test-auc:0.946976+0.0100272
+[20]    train-auc:0.957523+0.00236743   test-auc:0.946783+0.0100391
+[21]    train-auc:0.95769+0.00215775    test-auc:0.946968+0.0100552
+[22]    train-auc:0.958111+0.00221444   test-auc:0.94714+0.010122
+[23]    train-auc:0.959051+0.00154979   test-auc:0.947228+0.0101519
+[24]    train-auc:0.959775+0.00183232   test-auc:0.948417+0.00974961
+[25]    train-auc:0.960622+0.00258485   test-auc:0.9493+0.00929416
+[26]    train-auc:0.961147+0.00251181   test-auc:0.948674+0.00955275
+[27]    train-auc:0.961997+0.00232973   test-auc:0.949594+0.00967201
+[28]    train-auc:0.963106+0.0018016    test-auc:0.949668+0.0100291
+[29]    train-auc:0.964337+0.00193445   test-auc:0.950292+0.00907269
+[30]    train-auc:0.965276+0.00182085   test-auc:0.950892+0.00868811
+[31]    train-auc:0.966098+0.00151481   test-auc:0.951674+0.00951792
+[32]    train-auc:0.967123+0.00167032   test-auc:0.952373+0.00943066
+[33]    train-auc:0.968035+0.00186233   test-auc:0.953477+0.00902312
+[34]    train-auc:0.968642+0.00178797   test-auc:0.954248+0.0086706
+[35]    train-auc:0.969542+0.00202139   test-auc:0.954631+0.0086937
+[36]    train-auc:0.970105+0.00205515   test-auc:0.955262+0.00827996
+[37]    train-auc:0.970547+0.00194721   test-auc:0.955861+0.00801978
+[38]    train-auc:0.971072+0.00192174   test-auc:0.955798+0.00790716
+[39]    train-auc:0.97146+0.00185004    test-auc:0.956375+0.00781444
+[40]    train-auc:0.971776+0.00196414   test-auc:0.956603+0.00786778
+[41]    train-auc:0.972431+0.00211529   test-auc:0.956747+0.00790654
+[42]    train-auc:0.972787+0.00200312   test-auc:0.957206+0.0078972
+[43]    train-auc:0.973481+0.00189252   test-auc:0.957714+0.00812328
+[44]    train-auc:0.973913+0.0017639    test-auc:0.957974+0.00792172
+[45]    train-auc:0.974201+0.00174714   test-auc:0.958256+0.00786098
+[46]    train-auc:0.974537+0.00180678   test-auc:0.958405+0.00773523
+[47]    train-auc:0.974851+0.00178819   test-auc:0.958751+0.00761107
+[48]    train-auc:0.975407+0.00161179   test-auc:0.959109+0.00775654
+[49]    train-auc:0.975696+0.00162311   test-auc:0.959314+0.00769919
+[50]    train-auc:0.97603+0.00154307    test-auc:0.959616+0.00761794
+[51]    train-auc:0.976391+0.00134334   test-auc:0.959951+0.00783739
+[52]    train-auc:0.976781+0.00138768   test-auc:0.960192+0.0077372
+[53]    train-auc:0.977132+0.00136101   test-auc:0.960215+0.00778137
+[54]    train-auc:0.97727+0.00135514    test-auc:0.960406+0.00769297
+[55]    train-auc:0.977488+0.00134834   test-auc:0.960682+0.00762748
+[56]    train-auc:0.977862+0.00126815   test-auc:0.960889+0.0077358
+[57]    train-auc:0.97814+0.00125283    test-auc:0.961217+0.00761175
+[58]    train-auc:0.978414+0.00119727   test-auc:0.961238+0.0076933
+[59]    train-auc:0.978688+0.00115273   test-auc:0.9615+0.00774779
+[60]    train-auc:0.978929+0.0011944    test-auc:0.961865+0.00753117
+[61]    train-auc:0.979123+0.00111279   test-auc:0.96203+0.00758561
+[62]    train-auc:0.9793+0.00109809     test-auc:0.962099+0.00752943
+[63]    train-auc:0.979537+0.00107868   test-auc:0.962203+0.00763588
+[64]    train-auc:0.979749+0.00106459   test-auc:0.962408+0.00752233
+[65]    train-auc:0.979959+0.000985679  test-auc:0.962588+0.0074897
+[66]    train-auc:0.980066+0.000995985  test-auc:0.962751+0.00744284
+[67]    train-auc:0.980279+0.00101739   test-auc:0.962836+0.00747684
+[68]    train-auc:0.980501+0.00102254   test-auc:0.962973+0.00743821
+[69]    train-auc:0.980707+0.00111576   test-auc:0.963054+0.00733329
+[70]    train-auc:0.980948+0.00108063   test-auc:0.963215+0.00722702
+[71]    train-auc:0.981167+0.0009892    test-auc:0.963409+0.00742322
+[72]    train-auc:0.98138+0.000958146   test-auc:0.963536+0.00738417
+[73]    train-auc:0.981485+0.000985597  test-auc:0.963611+0.00736462
+[74]    train-auc:0.981658+0.000989528  test-auc:0.963772+0.00734875
+[75]    train-auc:0.981751+0.000961498  test-auc:0.96385+0.00739382
+[76]    train-auc:0.981979+0.000893036  test-auc:0.963987+0.00727179
+[77]    train-auc:0.982145+0.000897673  test-auc:0.964137+0.00726221
+[78]    train-auc:0.982342+0.000853063  test-auc:0.96421+0.00715178
+[79]    train-auc:0.982541+0.000885133  test-auc:0.964373+0.00717742
+[80]    train-auc:0.98267+0.000867121   test-auc:0.964569+0.00711122
+[81]    train-auc:0.982839+0.000850769  test-auc:0.964649+0.00713756
+[82]    train-auc:0.982953+0.000834891  test-auc:0.964725+0.00710699
+[83]    train-auc:0.983133+0.000849956  test-auc:0.964765+0.00710206
+[84]    train-auc:0.983344+0.000845832  test-auc:0.964857+0.00710477
+[85]    train-auc:0.98347+0.000849457   test-auc:0.964922+0.00710959
+[86]    train-auc:0.983603+0.000801786  test-auc:0.964999+0.00718847
+[87]    train-auc:0.983767+0.000765809  test-auc:0.965011+0.00713968
+[88]    train-auc:0.983868+0.00074906   test-auc:0.965075+0.00717787
+[89]    train-auc:0.983974+0.000760613  test-auc:0.965211+0.00718805
+[90]    train-auc:0.984112+0.000731977  test-auc:0.965309+0.00719641
+[91]    train-auc:0.984246+0.000770609  test-auc:0.965375+0.00724558
+[92]    train-auc:0.984323+0.000796307  test-auc:0.965468+0.00721254
+[93]    train-auc:0.984478+0.000848097  test-auc:0.965583+0.00718959
+[94]    train-auc:0.984613+0.000837428  test-auc:0.965708+0.00713175
+[95]    train-auc:0.984732+0.000824228  test-auc:0.965763+0.0071662
+[96]    train-auc:0.9849+0.000808327    test-auc:0.965769+0.00723367
+[97]    train-auc:0.984988+0.000813943  test-auc:0.965809+0.00722089
+[98]    train-auc:0.985083+0.000828523  test-auc:0.965935+0.00720035
+[99]    train-auc:0.985273+0.000775987  test-auc:0.966022+0.0071786
+[100]   train-auc:0.985382+0.000763877  test-auc:0.966051+0.00717651
+[101]   train-auc:0.985536+0.000773732  test-auc:0.966122+0.00716591
+[102]   train-auc:0.985616+0.000772026  test-auc:0.966173+0.00715526
+[103]   train-auc:0.985718+0.000752189  test-auc:0.966254+0.00712087
+[104]   train-auc:0.985816+0.000726727  test-auc:0.966365+0.00705279
+[105]   train-auc:0.985928+0.000695748  test-auc:0.966494+0.00710086
+[106]   train-auc:0.986048+0.000676273  test-auc:0.966541+0.00711173
+[107]   train-auc:0.986146+0.000660966  test-auc:0.966669+0.00701858
+[108]   train-auc:0.986211+0.000660604  test-auc:0.96678+0.00695234
+[109]   train-auc:0.986301+0.000653095  test-auc:0.966842+0.00688272
+[110]   train-auc:0.986491+0.000659732  test-auc:0.9669+0.00693807
+[111]   train-auc:0.986589+0.000682323  test-auc:0.966924+0.00695737
+[112]   train-auc:0.98666+0.000701492   test-auc:0.966991+0.0070216
+[113]   train-auc:0.986771+0.000690072  test-auc:0.967061+0.00702631
+[114]   train-auc:0.986855+0.000674964  test-auc:0.967143+0.00701037
+[115]   train-auc:0.986963+0.000659178  test-auc:0.967249+0.00705104
+[116]   train-auc:0.987074+0.00064596   test-auc:0.967257+0.00708942
+[117]   train-auc:0.987185+0.000624547  test-auc:0.967364+0.00714135
+[118]   train-auc:0.987289+0.00064588   test-auc:0.96744+0.00713581
+[119]   train-auc:0.987355+0.000628314  test-auc:0.967551+0.0071178
+[120]   train-auc:0.987444+0.000637561  test-auc:0.967563+0.00710154
+[121]   train-auc:0.987516+0.000662881  test-auc:0.967563+0.00708395
+[122]   train-auc:0.987656+0.000651809  test-auc:0.96766+0.00710427
+[123]   train-auc:0.98773+0.00064063    test-auc:0.967703+0.00710778
+[124]   train-auc:0.987815+0.000628544  test-auc:0.967801+0.00712327
+[125]   train-auc:0.987912+0.000624757  test-auc:0.967834+0.00713191
+[126]   train-auc:0.987976+0.000626624  test-auc:0.967933+0.0070946
+[127]   train-auc:0.98805+0.000605535   test-auc:0.968006+0.0070486
+[128]   train-auc:0.988137+0.000624564  test-auc:0.967999+0.00712943
+[129]   train-auc:0.988219+0.000618265  test-auc:0.968122+0.00711802
+[130]   train-auc:0.988311+0.000632013  test-auc:0.968139+0.00701821
+[131]   train-auc:0.988408+0.000609448  test-auc:0.968169+0.00696925
+[132]   train-auc:0.988474+0.000612616  test-auc:0.968211+0.00697936
+[133]   train-auc:0.988566+0.000583666  test-auc:0.968223+0.00697446
+[134]   train-auc:0.988622+0.000566275  test-auc:0.968267+0.00697445
+[135]   train-auc:0.988717+0.000551546  test-auc:0.968311+0.0070146
+[136]   train-auc:0.988796+0.000540826  test-auc:0.968367+0.00700304
+[137]   train-auc:0.988909+0.000491625  test-auc:0.968434+0.00699786
+[138]   train-auc:0.989029+0.000527708  test-auc:0.968501+0.00687928
+[139]   train-auc:0.989099+0.000548024  test-auc:0.968565+0.00687005
+[140]   train-auc:0.98916+0.000545335   test-auc:0.968634+0.00686182
+[141]   train-auc:0.989245+0.000540562  test-auc:0.968714+0.0068243
+[142]   train-auc:0.989324+0.00052884   test-auc:0.968758+0.00683623
+[143]   train-auc:0.989381+0.000538007  test-auc:0.968859+0.0068088
+[144]   train-auc:0.989487+0.000531289  test-auc:0.968923+0.00681875
+[145]   train-auc:0.989548+0.000524625  test-auc:0.968975+0.00681267
+[146]   train-auc:0.989622+0.00050797   test-auc:0.968993+0.00678382
+[147]   train-auc:0.989711+0.000496085  test-auc:0.96906+0.00679799
+[148]   train-auc:0.989761+0.000479546  test-auc:0.969094+0.006772
+[149]   train-auc:0.98987+0.00050552    test-auc:0.969174+0.00674875
+[150]   train-auc:0.989938+0.000493637  test-auc:0.969259+0.00672193
+[151]   train-auc:0.98998+0.000486571   test-auc:0.969276+0.00665637
+[152]   train-auc:0.990052+0.000488756  test-auc:0.969364+0.00664325
+[153]   train-auc:0.990146+0.000484297  test-auc:0.969395+0.00661333
+[154]   train-auc:0.9902+0.000486276    test-auc:0.96941+0.00664771
+[155]   train-auc:0.990263+0.000468653  test-auc:0.969411+0.0066856
+[156]   train-auc:0.990325+0.000472564  test-auc:0.969507+0.00665884
+[157]   train-auc:0.99038+0.000467352   test-auc:0.96956+0.00662109
+[158]   train-auc:0.990469+0.000443121  test-auc:0.96954+0.00654627
+[159]   train-auc:0.990511+0.000441082  test-auc:0.969597+0.00654318
+[160]   train-auc:0.990561+0.000436437  test-auc:0.969676+0.00656322
+[161]   train-auc:0.990639+0.000398626  test-auc:0.969689+0.00654027
+[162]   train-auc:0.990692+0.00042183   test-auc:0.969742+0.00650988
+[163]   train-auc:0.990753+0.000417507  test-auc:0.969802+0.0065288
+[164]   train-auc:0.990832+0.000407328  test-auc:0.969849+0.00645885
+[165]   train-auc:0.990885+0.000391847  test-auc:0.969868+0.00642497
+[166]   train-auc:0.990942+0.000394468  test-auc:0.969934+0.00639419
+[167]   train-auc:0.990973+0.000382269  test-auc:0.969936+0.0063717
+[168]   train-auc:0.991021+0.000375491  test-auc:0.969965+0.00634903
+[169]   train-auc:0.991079+0.000363074  test-auc:0.96998+0.00635393
+[170]   train-auc:0.99113+0.000369088   test-auc:0.970044+0.00630081
+[171]   train-auc:0.991193+0.000378567  test-auc:0.970041+0.00635635
+[172]   train-auc:0.991261+0.000360362  test-auc:0.970105+0.00635234
+[173]   train-auc:0.991304+0.000365899  test-auc:0.970102+0.0063265
+[174]   train-auc:0.991379+0.000331884  test-auc:0.970143+0.00638497
+[175]   train-auc:0.991418+0.000328308  test-auc:0.970149+0.0063764
+[176]   train-auc:0.991504+0.000376764  test-auc:0.97019+0.00637712
+[177]   train-auc:0.991568+0.000370287  test-auc:0.970283+0.00636122
+[178]   train-auc:0.991622+0.0003609    test-auc:0.970309+0.00637772
+[179]   train-auc:0.991674+0.000338756  test-auc:0.970363+0.00635727
+[180]   train-auc:0.99173+0.000345655   test-auc:0.97041+0.00634459
+[181]   train-auc:0.99178+0.000341451   test-auc:0.970434+0.00633194
+[182]   train-auc:0.991859+0.000313885  test-auc:0.970458+0.00633041
+[183]   train-auc:0.99191+0.000336248   test-auc:0.970445+0.0063797
+[184]   train-auc:0.99194+0.000331894   test-auc:0.970483+0.00637607
+[185]   train-auc:0.991975+0.000325098  test-auc:0.970533+0.00636068
+[186]   train-auc:0.992008+0.000338104  test-auc:0.970586+0.00634786
+[187]   train-auc:0.99205+0.000334196   test-auc:0.970619+0.00634915
+[188]   train-auc:0.992113+0.000314077  test-auc:0.970673+0.00637367
+[189]   train-auc:0.992181+0.00032074   test-auc:0.97072+0.00635612
+[190]   train-auc:0.99225+0.000326124   test-auc:0.970784+0.00633717
+[191]   train-auc:0.992312+0.000339823  test-auc:0.970835+0.00634147
+[192]   train-auc:0.992374+0.00032401   test-auc:0.970935+0.00633547
+[193]   train-auc:0.992428+0.000322634  test-auc:0.970964+0.00634714
+[194]   train-auc:0.992476+0.000332154  test-auc:0.970991+0.00631931
+[195]   train-auc:0.992527+0.000320868  test-auc:0.971019+0.00629207
+[196]   train-auc:0.992562+0.000315374  test-auc:0.971042+0.00626806
+[197]   train-auc:0.992595+0.000313296  test-auc:0.97105+0.00625673
+[198]   train-auc:0.992637+0.000300744  test-auc:0.971121+0.00626934
+[199]   train-auc:0.992696+0.000300862  test-auc:0.971148+0.00627295
+the best n_estimatorsï¼?200
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 3}
+Auccuracy: 0.792530084843
+
+Model Report
+accuracy_score : 0.9936
+precision_score: 0.9933
+recall_score: 0.961
+AUC Score (Train): 0.999641
+load train matrix sucess!!
+[0]     train-auc:0.947124+0.00694496   test-auc:0.94246+0.0259345
+[1]     train-auc:0.947351+0.00697301   test-auc:0.942424+0.0260079
+[2]     train-auc:0.947626+0.00698273   test-auc:0.942554+0.0260137
+[3]     train-auc:0.947707+0.00699496   test-auc:0.942527+0.0260696
+[4]     train-auc:0.95038+0.0063211     test-auc:0.94272+0.025997
+[5]     train-auc:0.950428+0.0063314    test-auc:0.9427+0.026081
+[6]     train-auc:0.95052+0.00630396    test-auc:0.942778+0.0261835
+[7]     train-auc:0.950567+0.00632293   test-auc:0.942728+0.0262198
+[8]     train-auc:0.952775+0.00864813   test-auc:0.944369+0.0250575
+[9]     train-auc:0.954979+0.00554951   test-auc:0.946012+0.0272084
+[10]    train-auc:0.95506+0.00557339    test-auc:0.946096+0.0271597
+[11]    train-auc:0.956785+0.00603795   test-auc:0.949549+0.0253397
+[12]    train-auc:0.956836+0.006059     test-auc:0.949581+0.0254068
+[13]    train-auc:0.958479+0.00592961   test-auc:0.953762+0.0216296
+[14]    train-auc:0.958522+0.00592745   test-auc:0.953797+0.0215521
+[15]    train-auc:0.958581+0.00592083   test-auc:0.953826+0.0215448
+[16]    train-auc:0.966206+0.0111127    test-auc:0.955013+0.0233503
+[17]    train-auc:0.972969+0.012167     test-auc:0.958682+0.026816
+[18]    train-auc:0.984308+0.00918574   test-auc:0.971034+0.0229383
+[19]    train-auc:0.984286+0.00914667   test-auc:0.973058+0.023615
+[20]    train-auc:0.989372+0.0014827    test-auc:0.982855+0.00778599
+[21]    train-auc:0.989389+0.00142854   test-auc:0.9829+0.00782331
+[22]    train-auc:0.989355+0.00138199   test-auc:0.982807+0.00778748
+[23]    train-auc:0.989387+0.00144822   test-auc:0.982862+0.00775837
+[24]    train-auc:0.989524+0.00130222   test-auc:0.982883+0.00780843
+[25]    train-auc:0.990058+0.00175676   test-auc:0.982114+0.00789697
+[26]    train-auc:0.991004+0.00173507   test-auc:0.9817+0.00870979
+[27]    train-auc:0.992317+0.00126677   test-auc:0.983203+0.00657024
+[28]    train-auc:0.992376+0.00129518   test-auc:0.982794+0.00714588
+[29]    train-auc:0.993022+0.00166981   test-auc:0.98279+0.00700221
+[30]    train-auc:0.994084+0.000809538  test-auc:0.983616+0.00715067
+[31]    train-auc:0.994194+0.000903119  test-auc:0.983993+0.00672426
+[32]    train-auc:0.994955+0.00113486   test-auc:0.983246+0.00687412
+[33]    train-auc:0.995212+0.0012245    test-auc:0.983249+0.00707177
+[34]    train-auc:0.995274+0.00128531   test-auc:0.983386+0.00692873
+[35]    train-auc:0.995343+0.00136017   test-auc:0.983292+0.00694597
+[36]    train-auc:0.995545+0.00144661   test-auc:0.983201+0.00694506
+[37]    train-auc:0.995653+0.00151177   test-auc:0.983421+0.00681715
+[38]    train-auc:0.995978+0.00110347   test-auc:0.983489+0.00684022
+[39]    train-auc:0.996303+0.000805191  test-auc:0.982991+0.00673079
+[40]    train-auc:0.996346+0.000778058  test-auc:0.983271+0.00660056
+the best n_estimatorsï¼?32
+CCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 5, 'min_child_weight': 5}
+Auccuracy: 0.858922779989
+
+Model Report
+accuracy_score : 0.9899
+precision_score: 0.7647
+recall_score: 0.8966
+AUC Score (Train): 0.994075
+load train matrix sucess!!
+[0]     train-auc:0.943222+0.00384521   test-auc:0.930333+0.0130494
+[1]     train-auc:0.944509+0.00324872   test-auc:0.930431+0.0130205
+[2]     train-auc:0.94812+0.00370724    test-auc:0.930419+0.012883
+[3]     train-auc:0.951835+0.00604471   test-auc:0.932324+0.012273
+[4]     train-auc:0.953055+0.00608197   test-auc:0.933296+0.0122756
+[5]     train-auc:0.953747+0.00516372   test-auc:0.934223+0.0126585
+[6]     train-auc:0.953812+0.00518172   test-auc:0.934314+0.012786
+[7]     train-auc:0.954775+0.00360021   test-auc:0.935335+0.0125697
+[8]     train-auc:0.958248+0.00141147   test-auc:0.940893+0.012698
+[9]     train-auc:0.95986+0.00201857    test-auc:0.944705+0.0115295
+[10]    train-auc:0.960384+0.00243764   test-auc:0.945608+0.0101713
+[11]    train-auc:0.961614+0.00368445   test-auc:0.946529+0.0113694
+[12]    train-auc:0.964343+0.00345151   test-auc:0.946239+0.0111338
+[13]    train-auc:0.965951+0.0052753    test-auc:0.947228+0.0125244
+[14]    train-auc:0.967585+0.00433242   test-auc:0.947882+0.0128692
+[15]    train-auc:0.968337+0.00462135   test-auc:0.947826+0.0129159
+[16]    train-auc:0.971753+0.00339576   test-auc:0.948457+0.0133423
+[17]    train-auc:0.973129+0.00301065   test-auc:0.949252+0.0139343
+[18]    train-auc:0.974289+0.00184699   test-auc:0.952245+0.0168929
+[19]    train-auc:0.976775+0.00162989   test-auc:0.955562+0.0141953
+[20]    train-auc:0.97697+0.00127865    test-auc:0.956546+0.0155371
+[21]    train-auc:0.977049+0.00133023   test-auc:0.956457+0.0154361
+[22]    train-auc:0.978066+0.00122667   test-auc:0.956384+0.015266
+[23]    train-auc:0.979034+0.00178045   test-auc:0.95998+0.0130981
+[24]    train-auc:0.980407+0.00103742   test-auc:0.961627+0.0122415
+[25]    train-auc:0.980925+0.00125284   test-auc:0.96154+0.0124019
+[26]    train-auc:0.980995+0.00122511   test-auc:0.96163+0.0124203
+[27]    train-auc:0.981046+0.00126573   test-auc:0.96166+0.012392
+[28]    train-auc:0.981044+0.00126017   test-auc:0.961679+0.0123924
+[29]    train-auc:0.981493+0.00195797   test-auc:0.963295+0.00980014
+[30]    train-auc:0.982776+0.00208595   test-auc:0.962993+0.00967936
+[31]    train-auc:0.983386+0.0024529    test-auc:0.962808+0.00933248
+[32]    train-auc:0.984163+0.0017386    test-auc:0.963341+0.00967348
+[33]    train-auc:0.984163+0.00172967   test-auc:0.963195+0.00952679
+[34]    train-auc:0.985459+0.00144828   test-auc:0.963142+0.0106002
+[35]    train-auc:0.985587+0.0014478    test-auc:0.96286+0.0107428
+[36]    train-auc:0.986648+0.00250237   test-auc:0.965215+0.00993541
+[37]    train-auc:0.987677+0.00154873   test-auc:0.965369+0.0104851
+[38]    train-auc:0.98807+0.00136373    test-auc:0.965855+0.0112234
+[39]    train-auc:0.988749+0.00186328   test-auc:0.966407+0.0112336
+[40]    train-auc:0.989763+0.00191806   test-auc:0.965569+0.010606
+[41]    train-auc:0.989785+0.00218666   test-auc:0.965+0.0111746
+[42]    train-auc:0.990445+0.0021439    test-auc:0.966289+0.0111757
+[43]    train-auc:0.99098+0.00142452    test-auc:0.966963+0.0102613
+[44]    train-auc:0.991774+0.00185604   test-auc:0.967441+0.00944494
+[45]    train-auc:0.991853+0.00184678   test-auc:0.96743+0.00946418
+[46]    train-auc:0.992022+0.00199382   test-auc:0.968303+0.00918618
+[47]    train-auc:0.99204+0.00200547    test-auc:0.967071+0.00936855
+[48]    train-auc:0.992983+0.00124866   test-auc:0.97004+0.00658441
+[49]    train-auc:0.993376+0.00111117   test-auc:0.970186+0.0051691
+[50]    train-auc:0.993572+0.0009993    test-auc:0.970774+0.00557798
+[51]    train-auc:0.993978+0.000937587  test-auc:0.970022+0.00688505
+[52]    train-auc:0.994015+0.0010433    test-auc:0.969736+0.00763679
+[53]    train-auc:0.994031+0.00108135   test-auc:0.969627+0.00756767
+[54]    train-auc:0.994635+0.000772809  test-auc:0.97054+0.00791349
+[55]    train-auc:0.995036+0.000973564  test-auc:0.970698+0.00861959
+[56]    train-auc:0.995328+0.000868419  test-auc:0.970832+0.00785956
+[57]    train-auc:0.995566+0.00085633   test-auc:0.971142+0.00849261
+[58]    train-auc:0.995798+0.000807195  test-auc:0.971468+0.00857815
+[59]    train-auc:0.996063+0.000722569  test-auc:0.973051+0.00829775
+[60]    train-auc:0.996154+0.000726918  test-auc:0.973054+0.00788123
+[61]    train-auc:0.996268+0.000721031  test-auc:0.973456+0.00773466
+[62]    train-auc:0.996474+0.000594118  test-auc:0.97283+0.00840802
+[63]    train-auc:0.996572+0.000559779  test-auc:0.972538+0.00810096
+[64]    train-auc:0.996671+0.000591552  test-auc:0.973754+0.00862386
+[65]    train-auc:0.996734+0.00060753   test-auc:0.973775+0.00872745
+[66]    train-auc:0.996879+0.000543242  test-auc:0.973624+0.00851834
+[67]    train-auc:0.996927+0.000545929  test-auc:0.974238+0.0086955
+[68]    train-auc:0.997072+0.000470973  test-auc:0.973702+0.0087902
+[69]    train-auc:0.997146+0.000461278  test-auc:0.974158+0.00866386
+[70]    train-auc:0.997203+0.000432357  test-auc:0.974222+0.00878657
+[71]    train-auc:0.997269+0.000474652  test-auc:0.974043+0.0087695
+[72]    train-auc:0.99736+0.000434147   test-auc:0.974262+0.00888807
+[73]    train-auc:0.997422+0.000435518  test-auc:0.974259+0.00876553
+[74]    train-auc:0.997466+0.000453533  test-auc:0.974192+0.00862299
+[75]    train-auc:0.997558+0.000476106  test-auc:0.973981+0.00841008
+[76]    train-auc:0.997625+0.000447307  test-auc:0.974067+0.00836295
+[77]    train-auc:0.99768+0.000435631   test-auc:0.974052+0.00850271
+[78]    train-auc:0.997767+0.000418172  test-auc:0.974237+0.00862533
+[79]    train-auc:0.997804+0.000439972  test-auc:0.974732+0.00893827
+[80]    train-auc:0.997856+0.000435612  test-auc:0.974796+0.00899464
+[81]    train-auc:0.997917+0.000435604  test-auc:0.974738+0.00900781
+[82]    train-auc:0.997958+0.000411415  test-auc:0.974886+0.00889345
+[83]    train-auc:0.99796+0.000426508   test-auc:0.974951+0.00888303
+[84]    train-auc:0.998024+0.000410169  test-auc:0.974475+0.00904578
+[85]    train-auc:0.998098+0.000411213  test-auc:0.974386+0.00896731
+[86]    train-auc:0.998121+0.000407985  test-auc:0.974344+0.00904868
+[87]    train-auc:0.998168+0.000393798  test-auc:0.974018+0.00908436
+[88]    train-auc:0.99819+0.000418306   test-auc:0.974007+0.00915114
+[89]    train-auc:0.998233+0.000437115  test-auc:0.973912+0.00895035
+[90]    train-auc:0.998271+0.00044347   test-auc:0.974214+0.00912252
+[91]    train-auc:0.998296+0.000435382  test-auc:0.97422+0.0089805
+[92]    train-auc:0.998355+0.000435213  test-auc:0.974391+0.00848598
+the best n_estimatorsï¼?84
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 1}
+Auccuracy: 0.973599328884
+
+Model Report
+accuracy_score : 1
+precision_score: 1
+recall_score: 1
+AUC Score (Train): 1.000000
+load train matrix sucess!!
+[0]     train-auc:0.978051+0.00119938   test-auc:0.971918+0.00603133
+[1]     train-auc:0.979858+0.00171998   test-auc:0.973788+0.00514409
+[2]     train-auc:0.982149+0.00119298   test-auc:0.974406+0.00549133
+[3]     train-auc:0.983624+0.00101734   test-auc:0.975396+0.00569168
+[4]     train-auc:0.984708+0.000420765  test-auc:0.976162+0.00532605
+[5]     train-auc:0.985212+0.000506421  test-auc:0.977345+0.00600065
+[6]     train-auc:0.985387+0.000355019  test-auc:0.9775+0.00600472
+[7]     train-auc:0.985569+0.000515349  test-auc:0.977501+0.00587115
+[8]     train-auc:0.985834+0.000393581  test-auc:0.977632+0.00588383
+[9]     train-auc:0.986359+0.000779741  test-auc:0.978379+0.0052133
+[10]    train-auc:0.986954+0.000716341  test-auc:0.978586+0.00508984
+[11]    train-auc:0.987542+0.00114574   test-auc:0.979152+0.00491377
+[12]    train-auc:0.988283+0.0009945    test-auc:0.979689+0.00475499
+[13]    train-auc:0.989087+0.000922448  test-auc:0.980631+0.00499045
+[14]    train-auc:0.989636+0.000909539  test-auc:0.980692+0.00509588
+[15]    train-auc:0.990154+0.00113286   test-auc:0.981703+0.00424933
+[16]    train-auc:0.990612+0.000847229  test-auc:0.981912+0.00447218
+[17]    train-auc:0.990853+0.00100622   test-auc:0.982054+0.00452867
+[18]    train-auc:0.991015+0.000951797  test-auc:0.982121+0.00455182
+[19]    train-auc:0.991182+0.000873243  test-auc:0.982381+0.00476333
+[20]    train-auc:0.991362+0.000863932  test-auc:0.982423+0.00466844
+[21]    train-auc:0.99174+0.000706191   test-auc:0.982374+0.0047151
+[22]    train-auc:0.992265+0.000539439  test-auc:0.98252+0.00471904
+[23]    train-auc:0.992434+0.000475268  test-auc:0.982523+0.00465064
+[24]    train-auc:0.992841+0.000440872  test-auc:0.982495+0.00472153
+[25]    train-auc:0.993007+0.000428064  test-auc:0.982529+0.00478685
+[26]    train-auc:0.993112+0.000386416  test-auc:0.982657+0.00491663
+[27]    train-auc:0.993199+0.000315247  test-auc:0.982658+0.00487232
+[28]    train-auc:0.993266+0.000356122  test-auc:0.982622+0.00488602
+[29]    train-auc:0.993405+0.000321169  test-auc:0.982773+0.00488888
+[30]    train-auc:0.993459+0.000332345  test-auc:0.983406+0.00428619
+[31]    train-auc:0.993622+0.000340239  test-auc:0.9834+0.00435551
+[32]    train-auc:0.993705+0.000336019  test-auc:0.984545+0.00354528
+[33]    train-auc:0.99381+0.00034072    test-auc:0.985464+0.0028579
+[34]    train-auc:0.993923+0.00031283   test-auc:0.985566+0.00289231
+[35]    train-auc:0.994034+0.000360622  test-auc:0.985558+0.00294445
+[36]    train-auc:0.994157+0.000342541  test-auc:0.985653+0.00298224
+[37]    train-auc:0.994237+0.000364451  test-auc:0.985718+0.00295745
+[38]    train-auc:0.994293+0.000376955  test-auc:0.985767+0.00301948
+[39]    train-auc:0.994387+0.000327966  test-auc:0.985792+0.00295584
+[40]    train-auc:0.994447+0.000292775  test-auc:0.986333+0.00259807
+[41]    train-auc:0.994591+0.0002922    test-auc:0.986246+0.00275283
+[42]    train-auc:0.994709+0.000237059  test-auc:0.986316+0.00275442
+[43]    train-auc:0.994784+0.000242491  test-auc:0.986338+0.00276737
+[44]    train-auc:0.99483+0.000232725   test-auc:0.98637+0.00277002
+[45]    train-auc:0.994898+0.000236196  test-auc:0.9864+0.00272348
+[46]    train-auc:0.994987+0.000243551  test-auc:0.986459+0.00275753
+[47]    train-auc:0.99503+0.000248266   test-auc:0.98655+0.00276136
+[48]    train-auc:0.995101+0.000240368  test-auc:0.986524+0.00276943
+[49]    train-auc:0.995171+0.000202594  test-auc:0.986591+0.00277607
+[50]    train-auc:0.995204+0.000215141  test-auc:0.986618+0.00279265
+[51]    train-auc:0.99528+0.000202714   test-auc:0.987035+0.00289474
+[52]    train-auc:0.995344+0.000204057  test-auc:0.987106+0.00284385
+[53]    train-auc:0.995415+0.000190164  test-auc:0.987151+0.00281924
+[54]    train-auc:0.99548+0.000222888   test-auc:0.987205+0.00278695
+[55]    train-auc:0.995532+0.000235059  test-auc:0.987219+0.00276203
+[56]    train-auc:0.995608+0.000243518  test-auc:0.987239+0.00280564
+[57]    train-auc:0.995651+0.000243964  test-auc:0.987228+0.00274238
+[58]    train-auc:0.995697+0.000223305  test-auc:0.987163+0.0027069
+[59]    train-auc:0.995764+0.000239208  test-auc:0.987144+0.00270894
+[60]    train-auc:0.995829+0.000236852  test-auc:0.987088+0.00277949
+[61]    train-auc:0.995873+0.000233844  test-auc:0.987009+0.00286312
+[62]    train-auc:0.995921+0.000235014  test-auc:0.986928+0.00300017
+[63]    train-auc:0.995966+0.000238679  test-auc:0.986935+0.0029714
+[64]    train-auc:0.996011+0.000250311  test-auc:0.987393+0.00230941
+[65]    train-auc:0.996078+0.000226248  test-auc:0.987342+0.00237701
+[66]    train-auc:0.996127+0.000201133  test-auc:0.987286+0.00244431
+[67]    train-auc:0.996175+0.00020193   test-auc:0.987541+0.00217624
+[68]    train-auc:0.996236+0.000212751  test-auc:0.98765+0.00211074
+[69]    train-auc:0.996292+0.000219861  test-auc:0.987668+0.00218034
+[70]    train-auc:0.996355+0.00019357   test-auc:0.987753+0.00229317
+[71]    train-auc:0.996405+0.000192894  test-auc:0.987817+0.00230305
+[72]    train-auc:0.996453+0.000182757  test-auc:0.987793+0.00237245
+[73]    train-auc:0.996516+0.000191525  test-auc:0.987898+0.00223536
+[74]    train-auc:0.996562+0.000172241  test-auc:0.98801+0.00218561
+[75]    train-auc:0.996631+0.000139184  test-auc:0.988004+0.00220886
+[76]    train-auc:0.996691+0.000159732  test-auc:0.988073+0.00223617
+[77]    train-auc:0.99673+0.000152488   test-auc:0.988099+0.00217469
+[78]    train-auc:0.996784+0.000156053  test-auc:0.988161+0.00213397
+[79]    train-auc:0.996837+0.000170809  test-auc:0.988196+0.00208302
+[80]    train-auc:0.996885+0.000160331  test-auc:0.98824+0.00214314
+[81]    train-auc:0.996923+0.000179153  test-auc:0.988243+0.00215077
+[82]    train-auc:0.99699+0.000175513   test-auc:0.988288+0.00217013
+[83]    train-auc:0.99702+0.000185902   test-auc:0.988388+0.0021132
+[84]    train-auc:0.997043+0.000186256  test-auc:0.98841+0.00211815
+[85]    train-auc:0.997075+0.000182343  test-auc:0.988367+0.00213906
+[86]    train-auc:0.997142+0.000179577  test-auc:0.988338+0.0021591
+[87]    train-auc:0.99718+0.000182579   test-auc:0.988345+0.00217573
+[88]    train-auc:0.99723+0.000184639   test-auc:0.988374+0.00215214
+[89]    train-auc:0.997266+0.000182429  test-auc:0.988368+0.00211119
+[90]    train-auc:0.997306+0.000193266  test-auc:0.988374+0.00213961
+[91]    train-auc:0.997342+0.000188639  test-auc:0.988231+0.00242752
+[92]    train-auc:0.997372+0.000206477  test-auc:0.98825+0.00240499
+[93]    train-auc:0.997404+0.000190859  test-auc:0.988268+0.00238333
+the best n_estimatorsï¼?85
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 1}
+Auccuracy: 0.902931140546
+
+Model Report
+accuracy_score : 0.9945
+precision_score: 0.9855
+recall_score: 0.9315
+AUC Score (Train): 0.999785
+load train matrix sucess!!
+[0]     train-auc:0.993225+0.00305601   test-auc:0.994422+0.00814285
+[1]     train-auc:0.993405+0.0030293    test-auc:0.994376+0.0081083
+[2]     train-auc:0.993496+0.00303246   test-auc:0.994504+0.00812962
+[3]     train-auc:0.99364+0.00298826    test-auc:0.994618+0.0082756
+[4]     train-auc:0.993673+0.00303027   test-auc:0.994672+0.00820173
+[5]     train-auc:0.993683+0.00302415   test-auc:0.994769+0.00826355
+[6]     train-auc:0.993705+0.00302208   test-auc:0.99476+0.00826038
+[7]     train-auc:0.993716+0.00300923   test-auc:0.994718+0.00819138
+[8]     train-auc:0.993734+0.00301077   test-auc:0.994729+0.00825249
+[9]     train-auc:0.993742+0.00300391   test-auc:0.994739+0.00820193
+[10]    train-auc:0.993758+0.00299545   test-auc:0.994759+0.00823163
+[11]    train-auc:0.995225+0.0036724    test-auc:0.994755+0.00822024
+[12]    train-auc:0.999718+3.15189e-05  test-auc:0.994772+0.0082305
+[13]    train-auc:0.999737+2.30703e-05  test-auc:0.994809+0.00824893
+[14]    train-auc:0.999753+1.94566e-05  test-auc:0.994799+0.0082139
+[15]    train-auc:0.999761+1.54583e-05  test-auc:0.994803+0.00826421
+[16]    train-auc:0.99977+2.32689e-05   test-auc:0.994812+0.00829708
+[17]    train-auc:0.999774+2.36356e-05  test-auc:0.994815+0.00828609
+[18]    train-auc:0.99978+2.6882e-05    test-auc:0.994848+0.00833049
+[19]    train-auc:0.999779+2.51269e-05  test-auc:0.994873+0.00829492
+[20]    train-auc:0.999786+3.52647e-05  test-auc:0.994878+0.00829858
+[21]    train-auc:0.999791+3.84104e-05  test-auc:0.994918+0.00833634
+[22]    train-auc:0.999793+3.9943e-05   test-auc:0.994941+0.00834653
+[23]    train-auc:0.999794+3.88896e-05  test-auc:0.994941+0.00834653
+[24]    train-auc:0.999799+3.89287e-05  test-auc:0.994927+0.00835813
+[25]    train-auc:0.9998+3.93212e-05    test-auc:0.994927+0.0083682
+[26]    train-auc:0.999806+4.0032e-05   test-auc:0.994964+0.00838779
+[27]    train-auc:0.99981+3.91898e-05   test-auc:0.994982+0.00836801
+[28]    train-auc:0.999809+3.9942e-05   test-auc:0.994981+0.00835736
+[29]    train-auc:0.99981+4.17689e-05   test-auc:0.994991+0.00837196
+[30]    train-auc:0.999811+4.23821e-05  test-auc:0.994995+0.00836385
+[31]    train-auc:0.999812+4.45089e-05  test-auc:0.995005+0.00838814
+[32]    train-auc:0.999818+4.03158e-05  test-auc:0.994976+0.00838333
+[33]    train-auc:0.999825+3.73502e-05  test-auc:0.994978+0.00838468
+[34]    train-auc:0.999824+3.91541e-05  test-auc:0.994956+0.00841186
+[35]    train-auc:0.999829+4.0494e-05   test-auc:0.994958+0.00841184
+[36]    train-auc:0.999831+4.0023e-05   test-auc:0.994968+0.0084073
+[37]    train-auc:0.999832+4.07362e-05  test-auc:0.994958+0.00839381
+[38]    train-auc:0.999833+3.96656e-05  test-auc:0.994979+0.00840335
+[39]    train-auc:0.999836+3.90518e-05  test-auc:0.99496+0.00837504
+[40]    train-auc:0.999839+3.9965e-05   test-auc:0.994958+0.00839329
+the best n_estimatorsï¼?32
+CCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 5, 'min_child_weight': 1}
+Auccuracy: 0.990597071733
+
+Model Report
+accuracy_score : 1
+precision_score: 1
+recall_score: 1
+AUC Score (Train): 1.000000
+load train matrix sucess!!
+[0]     train-auc:0.992084+0.000841638  test-auc:0.988122+0.00268105
+[1]     train-auc:0.992417+0.00106527   test-auc:0.988119+0.00269058
+[2]     train-auc:0.993347+0.000319339  test-auc:0.988825+0.00337075
+[3]     train-auc:0.993603+0.000116949  test-auc:0.988921+0.00349149
+[4]     train-auc:0.99386+0.000305806   test-auc:0.989144+0.00336262
+[5]     train-auc:0.99419+0.000643019   test-auc:0.989141+0.00336783
+[6]     train-auc:0.995391+0.000457382  test-auc:0.989538+0.00327789
+[7]     train-auc:0.996092+0.000511337  test-auc:0.989849+0.00321942
+[8]     train-auc:0.996822+0.000397081  test-auc:0.990399+0.00325087
+[9]     train-auc:0.997143+0.000317175  test-auc:0.990927+0.00330054
+[10]    train-auc:0.997251+0.000391299  test-auc:0.990945+0.00329497
+[11]    train-auc:0.997632+0.000342993  test-auc:0.991188+0.00321144
+[12]    train-auc:0.997795+0.000320484  test-auc:0.991355+0.00323092
+[13]    train-auc:0.997824+0.000265677  test-auc:0.991391+0.00322826
+[14]    train-auc:0.998117+0.000104581  test-auc:0.992826+0.00150522
+[15]    train-auc:0.998174+0.000124787  test-auc:0.992847+0.00153814
+[16]    train-auc:0.998192+0.000130314  test-auc:0.992964+0.00149126
+[17]    train-auc:0.998262+0.000133026  test-auc:0.992998+0.00145886
+[18]    train-auc:0.998321+0.000152429  test-auc:0.993032+0.00150566
+[19]    train-auc:0.998399+0.000141298  test-auc:0.993148+0.00150936
+[20]    train-auc:0.998436+0.000183526  test-auc:0.993167+0.00150847
+[21]    train-auc:0.998493+0.000165852  test-auc:0.993156+0.00147071
+[22]    train-auc:0.998536+0.000169454  test-auc:0.993185+0.00148167
+[23]    train-auc:0.99856+0.000155899   test-auc:0.99315+0.00149748
+[24]    train-auc:0.998585+0.000161229  test-auc:0.99318+0.00149484
+[25]    train-auc:0.998604+0.000154023  test-auc:0.993199+0.0015467
+[26]    train-auc:0.99864+0.000139629   test-auc:0.993203+0.0015133
+[27]    train-auc:0.99869+0.00014924    test-auc:0.993239+0.00149082
+[28]    train-auc:0.998718+0.000150956  test-auc:0.993855+0.00093566
+[29]    train-auc:0.99875+0.000134129   test-auc:0.99447+0.00205684
+[30]    train-auc:0.998777+0.000129884  test-auc:0.994492+0.00201784
+[31]    train-auc:0.9988+0.000141025    test-auc:0.99452+0.00204635
+[32]    train-auc:0.998827+0.000143328  test-auc:0.994524+0.00205288
+[33]    train-auc:0.998855+0.000146456  test-auc:0.994478+0.00202506
+[34]    train-auc:0.998876+0.000137948  test-auc:0.994457+0.00202434
+[35]    train-auc:0.998895+0.000139003  test-auc:0.99441+0.0020373
+[36]    train-auc:0.998926+0.000117791  test-auc:0.994365+0.00202744
+[37]    train-auc:0.998965+0.000108068  test-auc:0.994354+0.00202433
+[38]    train-auc:0.998986+9.83231e-05  test-auc:0.994305+0.0020314
+[39]    train-auc:0.999003+9.66797e-05  test-auc:0.994909+0.00213615
+[40]    train-auc:0.999017+9.71152e-05  test-auc:0.994943+0.0021616
+[41]    train-auc:0.999032+0.000100478  test-auc:0.99494+0.00217535
+[42]    train-auc:0.999049+0.000107362  test-auc:0.994988+0.0022725
+[43]    train-auc:0.999071+0.00010708   test-auc:0.99495+0.00228607
+[44]    train-auc:0.999092+0.000102386  test-auc:0.994965+0.00230563
+[45]    train-auc:0.999109+9.93752e-05  test-auc:0.994904+0.0023914
+[46]    train-auc:0.999121+0.000107509  test-auc:0.994835+0.00245375
+[47]    train-auc:0.99914+0.000105446   test-auc:0.995403+0.0022434
+[48]    train-auc:0.999155+0.000104832  test-auc:0.995394+0.00227565
+[49]    train-auc:0.999174+0.000107775  test-auc:0.995847+0.00195513
+[50]    train-auc:0.99919+0.000101748   test-auc:0.996295+0.00134701
+[51]    train-auc:0.999206+9.72247e-05  test-auc:0.996428+0.00128461
+[52]    train-auc:0.999223+0.000105254  test-auc:0.9966+0.00116469
+[53]    train-auc:0.999246+9.96084e-05  test-auc:0.996652+0.00108586
+[54]    train-auc:0.999257+0.00010076   test-auc:0.996691+0.00105477
+[55]    train-auc:0.999265+9.76168e-05  test-auc:0.996678+0.00106811
+[56]    train-auc:0.999287+9.33694e-05  test-auc:0.996663+0.00105698
+[57]    train-auc:0.999304+8.37343e-05  test-auc:0.99664+0.00103335
+[58]    train-auc:0.999323+8.05893e-05  test-auc:0.996612+0.00106535
+[59]    train-auc:0.999338+7.59621e-05  test-auc:0.996678+0.00100545
+[60]    train-auc:0.999351+8.33556e-05  test-auc:0.996677+0.00102688
+[61]    train-auc:0.999362+8.60195e-05  test-auc:0.996644+0.0010632
+[62]    train-auc:0.999372+8.44071e-05  test-auc:0.996654+0.00105114
+[63]    train-auc:0.999384+8.65342e-05  test-auc:0.996648+0.00106877
+the best n_estimatorsï¼?55
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 5}
+Auccuracy: 0.97758657724
+
+Model Report
+accuracy_score : 0.9835
+precision_score: 0.8235
+recall_score: 0.9589
+AUC Score (Train): 0.997115
+load train matrix sucess!!
+[0]     train-auc:0.864638+0.0413729    test-auc:0.819449+0.0794253
+[1]     train-auc:0.890881+0.0440856    test-auc:0.81941+0.0794184
+[2]     train-auc:0.916582+0.0180451    test-auc:0.839379+0.0559629
+[3]     train-auc:0.937521+0.0338685    test-auc:0.858692+0.0556852
+[4]     train-auc:0.969171+0.0398066    test-auc:0.8783+0.0793628
+[5]     train-auc:0.989191+0.0199069    test-auc:0.902755+0.0921774
+[6]     train-auc:0.999291+0.000193705  test-auc:0.927507+0.0975486
+[7]     train-auc:0.99936+0.00020734    test-auc:0.927496+0.0975405
+[8]     train-auc:0.999394+0.00019615   test-auc:0.927519+0.0975566
+[9]     train-auc:0.999415+0.000193853  test-auc:0.927555+0.0976022
+[10]    train-auc:0.999454+0.000207541  test-auc:0.927442+0.0978094
+[11]    train-auc:0.999595+6.24263e-05  test-auc:0.976535+0.0401331
+[12]    train-auc:0.999641+4.37283e-05  test-auc:0.976472+0.0400573
+[13]    train-auc:0.999641+4.94708e-05  test-auc:0.976599+0.0403717
+[14]    train-auc:0.999681+6.8307e-05   test-auc:0.976587+0.0403657
+[15]    train-auc:0.999696+6.40768e-05  test-auc:0.976836+0.0397665
+[16]    train-auc:0.999701+6.76917e-05  test-auc:0.97683+0.0397661
+[17]    train-auc:0.999722+5.60371e-05  test-auc:0.976852+0.0397351
+[18]    train-auc:0.999743+6.54724e-05  test-auc:0.976997+0.0398588
+[19]    train-auc:0.999755+7.02823e-05  test-auc:0.977198+0.0399408
+[20]    train-auc:0.999762+5.92182e-05  test-auc:0.977185+0.0398441
+[21]    train-auc:0.99978+5.51239e-05   test-auc:0.977126+0.0399044
+[22]    train-auc:0.999778+5.59586e-05  test-auc:0.977213+0.0399429
+[23]    train-auc:0.999793+5.12617e-05  test-auc:0.977053+0.0402261
+[24]    train-auc:0.9998+4.37383e-05    test-auc:0.977068+0.0402328
+[25]    train-auc:0.999809+4.68589e-05  test-auc:0.977136+0.0402611
+[26]    train-auc:0.999813+3.71344e-05  test-auc:0.977219+0.0402562
+[27]    train-auc:0.999821+3.77518e-05  test-auc:0.977227+0.0403031
+[28]    train-auc:0.999834+3.68565e-05  test-auc:0.977238+0.0403093
+[29]    train-auc:0.999836+3.01662e-05  test-auc:0.977207+0.0402947
+[30]    train-auc:0.999845+2.16979e-05  test-auc:0.977185+0.0402822
+[31]    train-auc:0.99985+1.98131e-05   test-auc:0.977203+0.0402458
+[32]    train-auc:0.99986+1.66685e-05   test-auc:0.977225+0.0403037
+[33]    train-auc:0.999866+1.50917e-05  test-auc:0.977233+0.0403072
+[34]    train-auc:0.999871+1.29213e-05  test-auc:0.977197+0.0402419
+[35]    train-auc:0.999881+9.08625e-06  test-auc:0.97713+0.0403008
+[36]    train-auc:0.999886+1.03923e-05  test-auc:0.977118+0.0402913
+[37]    train-auc:0.999885+8.95321e-06  test-auc:0.977085+0.0402746
+the best n_estimatorsï¼?29
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 3}
+Auccuracy: 0.998643842868
+
+Model Report
+accuracy_score : 1
+precision_score: 1
+recall_score: 1
+AUC Score (Train): 1.000000
+load train matrix sucess!!
+[0]     train-auc:0.658683+0.0149516    test-auc:0.498958+0.000792129
+[1]     train-auc:0.703589+0.0222519    test-auc:0.515066+0.0337694
+[2]     train-auc:0.72355+0.0151425     test-auc:0.555894+0.0490726
+[3]     train-auc:0.747663+0.0214224    test-auc:0.555313+0.0490145
+[4]     train-auc:0.772444+0.0330505    test-auc:0.579229+0.0899185
+[5]     train-auc:0.772295+0.0331335    test-auc:0.579282+0.0899975
+[6]     train-auc:0.805671+0.029361     test-auc:0.602395+0.0805802
+[7]     train-auc:0.810462+0.0374606    test-auc:0.602293+0.0808744
+[8]     train-auc:0.840036+0.0398058    test-auc:0.658111+0.11923
+[9]     train-auc:0.865039+0.0255498    test-auc:0.655766+0.119624
+[10]    train-auc:0.908944+0.0527928    test-auc:0.693042+0.160176
+[11]    train-auc:0.957817+0.0353711    test-auc:0.762811+0.13282
+[12]    train-auc:0.959466+0.0361588    test-auc:0.764818+0.135887
+[13]    train-auc:0.959409+0.0360305    test-auc:0.764727+0.135731
+[14]    train-auc:0.979874+0.0201828    test-auc:0.823893+0.137752
+[15]    train-auc:0.98543+0.0214605     test-auc:0.88998+0.0858867
+[16]    train-auc:0.986321+0.0215445    test-auc:0.891053+0.0865622
+[17]    train-auc:0.997779+0.000842187  test-auc:0.938138+0.0401493
+[18]    train-auc:0.998122+0.000738688  test-auc:0.940906+0.0422304
+[19]    train-auc:0.998501+0.000532058  test-auc:0.942315+0.0429532
+[20]    train-auc:0.998675+0.00056329   test-auc:0.94839+0.0400419
+[21]    train-auc:0.998834+0.000636937  test-auc:0.948205+0.0396284
+[22]    train-auc:0.99893+0.00065874    test-auc:0.949802+0.0396522
+[23]    train-auc:0.998946+0.000679813  test-auc:0.949514+0.0389661
+[24]    train-auc:0.998947+0.000688128  test-auc:0.950099+0.0394871
+[25]    train-auc:0.998885+0.000785829  test-auc:0.951766+0.0402681
+[26]    train-auc:0.998905+0.000831579  test-auc:0.951367+0.0402185
+[27]    train-auc:0.998904+0.000816462  test-auc:0.951703+0.0401155
+[28]    train-auc:0.998902+0.000813858  test-auc:0.951762+0.0402335
+[29]    train-auc:0.998937+0.000829072  test-auc:0.952843+0.0380781
+[30]    train-auc:0.99894+0.000852634   test-auc:0.953695+0.0384661
+[31]    train-auc:0.998975+0.000859462  test-auc:0.953773+0.0387099
+[32]    train-auc:0.999096+0.000681029  test-auc:0.954732+0.0387382
+[33]    train-auc:0.999107+0.000692167  test-auc:0.955605+0.0389544
+[34]    train-auc:0.999198+0.000626956  test-auc:0.955128+0.0386984
+[35]    train-auc:0.999216+0.000583833  test-auc:0.95437+0.0397171
+[36]    train-auc:0.999243+0.000587172  test-auc:0.955005+0.0397055
+[37]    train-auc:0.999356+0.000466407  test-auc:0.954804+0.039471
+[38]    train-auc:0.999372+0.000461858  test-auc:0.953943+0.0395829
+[39]    train-auc:0.9994+0.000414919    test-auc:0.952454+0.0393587
+[40]    train-auc:0.999445+0.000381578  test-auc:0.951421+0.0397501
+[41]    train-auc:0.999501+0.0003447    test-auc:0.950016+0.0396908
+[42]    train-auc:0.999553+0.000302003  test-auc:0.950058+0.0398338
+the best n_estimatorsï¼?34
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 5}
+Auccuracy: 0.997740010737
+
+Model Report
+accuracy_score : 0.9982
+C:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\metrics\classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+precision_score: 0
+recall_score: 0
+AUC Score (Train): 0.974588
+load train matrix sucess!!
+[0]     train-auc:0.91502+0.00992697    test-auc:0.897774+0.0462284
+[1]     train-auc:0.922977+0.01484      test-auc:0.897746+0.0462269
+[2]     train-auc:0.925663+0.0192231    test-auc:0.897676+0.0462125
+[3]     train-auc:0.937116+0.0162628    test-auc:0.897527+0.0461428
+[4]     train-auc:0.96825+0.0233895     test-auc:0.922564+0.0607104
+[5]     train-auc:0.979282+0.0158612    test-auc:0.934907+0.0678837
+[6]     train-auc:0.985588+0.00848375   test-auc:0.948831+0.0718332
+[7]     train-auc:0.985662+0.0084608    test-auc:0.948856+0.0719974
+[8]     train-auc:0.985771+0.00848247   test-auc:0.948838+0.0719618
+[9]     train-auc:0.985815+0.00852608   test-auc:0.948755+0.0720177
+[10]    train-auc:0.985856+0.00852755   test-auc:0.948825+0.0720723
+[11]    train-auc:0.988461+0.00581669   test-auc:0.985439+0.0223293
+[12]    train-auc:0.988513+0.00579506   test-auc:0.985555+0.0224222
+[13]    train-auc:0.991141+0.00695214   test-auc:0.985556+0.0224726
+[14]    train-auc:0.991206+0.00699251   test-auc:0.985633+0.0225136
+[15]    train-auc:0.9964+0.0063008      test-auc:0.985988+0.0226592
+[16]    train-auc:0.999528+0.000255071  test-auc:0.986115+0.0227415
+[17]    train-auc:0.999622+0.000179914  test-auc:0.986069+0.0227203
+[18]    train-auc:0.999664+0.000165575  test-auc:0.986243+0.0227816
+[19]    train-auc:0.999698+0.000151867  test-auc:0.986293+0.0228566
+[20]    train-auc:0.99974+0.000133017   test-auc:0.986393+0.0228699
+[21]    train-auc:0.999752+0.000124946  test-auc:0.986478+0.0229113
+[22]    train-auc:0.99977+0.000118761   test-auc:0.986568+0.0229303
+[23]    train-auc:0.999793+0.000107654  test-auc:0.986674+0.0230591
+[24]    train-auc:0.999806+0.000101728  test-auc:0.986674+0.0230098
+[25]    train-auc:0.999821+9.45888e-05  test-auc:0.986683+0.0230413
+[26]    train-auc:0.999827+9.20261e-05  test-auc:0.986703+0.0230268
+[27]    train-auc:0.999834+8.68631e-05  test-auc:0.986598+0.0230524
+[28]    train-auc:0.999843+8.13157e-05  test-auc:0.986554+0.0231717
+[29]    train-auc:0.999842+8.24485e-05  test-auc:0.986552+0.0232211
+[30]    train-auc:0.999853+7.5093e-05   test-auc:0.986529+0.023285
+[31]    train-auc:0.999856+7.33468e-05  test-auc:0.986572+0.0232554
+[32]    train-auc:0.999861+7.10594e-05  test-auc:0.986551+0.0232958
+[33]    train-auc:0.999864+6.92751e-05  test-auc:0.986492+0.0233423
+[34]    train-auc:0.99987+6.57553e-05   test-auc:0.986492+0.0233666
+[35]    train-auc:0.99988+6.09669e-05   test-auc:0.986565+0.0234027
+the best n_estimatorsï¼?27
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 1}
+Auccuracy: 0.983557862101
+
+Model Report
+accuracy_score : 1
+precision_score: 1
+recall_score: 1
+AUC Score (Train): 1.000000
+load train matrix sucess!!
+[0]     train-auc:0.944298+0.00485634   test-auc:0.914692+0.0338341
+[1]     train-auc:0.950534+0.00533278   test-auc:0.914503+0.0336134
+[2]     train-auc:0.955341+0.00488751   test-auc:0.914642+0.0337037
+[3]     train-auc:0.956619+0.00382278   test-auc:0.914831+0.0336733
+[4]     train-auc:0.961773+0.00458025   test-auc:0.914813+0.0337388
+[5]     train-auc:0.965454+0.00657218   test-auc:0.914775+0.0336197
+[6]     train-auc:0.966428+0.00611131   test-auc:0.914787+0.0337112
+[7]     train-auc:0.968427+0.00450792   test-auc:0.914783+0.0337692
+[8]     train-auc:0.971486+0.00313986   test-auc:0.914736+0.0337712
+[9]     train-auc:0.97344+0.00350758    test-auc:0.919902+0.0266517
+[10]    train-auc:0.978182+0.00528376   test-auc:0.91989+0.0267416
+[11]    train-auc:0.980251+0.00636303   test-auc:0.919775+0.0267782
+[12]    train-auc:0.980289+0.00637486   test-auc:0.91983+0.0268187
+[13]    train-auc:0.984492+0.00292989   test-auc:0.919744+0.0268019
+[14]    train-auc:0.984491+0.00290524   test-auc:0.919707+0.0268475
+[15]    train-auc:0.985409+0.00155278   test-auc:0.919529+0.0270076
+[16]    train-auc:0.985374+0.00151896   test-auc:0.919483+0.0272134
+[17]    train-auc:0.98532+0.00149943    test-auc:0.919248+0.0273623
+[18]    train-auc:0.986189+0.00176394   test-auc:0.919281+0.0273931
+the best n_estimatorsï¼?10
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 9, 'min_child_weight': 1}
+Auccuracy: 0.993491034811
+
+Model Report
+accuracy_score : 0.9982
+precision_score: 0.9167
+recall_score: 0.9167
+AUC Score (Train): 0.957140
+load train matrix sucess!!
+[01:43:24] dmlc-core/include/dmlc/logging.h:300: [01:43:24] src/metric/rank_metric.cc:135: Check failed: !auc_error AUC: the dataset only contains pos or neg samples
+fail in  18 probabily count less!!
+load train matrix sucess!!
+[0]     train-auc:0.963618+0.0104861    test-auc:0.953586+0.0105523
+[1]     train-auc:0.968982+0.00840914   test-auc:0.958973+0.00829499
+[2]     train-auc:0.973878+0.00436695   test-auc:0.96054+0.00663482
+[3]     train-auc:0.976719+0.00168341   test-auc:0.966929+0.0100616
+[4]     train-auc:0.977435+0.0011004    test-auc:0.966917+0.0100873
+[5]     train-auc:0.978572+0.00175469   test-auc:0.96703+0.0104432
+[6]     train-auc:0.979292+0.00238223   test-auc:0.967024+0.0103226
+[7]     train-auc:0.980992+0.00177798   test-auc:0.96724+0.0105125
+[8]     train-auc:0.982147+0.00234817   test-auc:0.96732+0.0105907
+[9]     train-auc:0.982376+0.00238046   test-auc:0.967228+0.0104783
+[10]    train-auc:0.982435+0.00237927   test-auc:0.967316+0.0106218
+[11]    train-auc:0.982845+0.00194578   test-auc:0.968162+0.0112144
+[12]    train-auc:0.983164+0.00179554   test-auc:0.968106+0.0112334
+[13]    train-auc:0.983383+0.0017408    test-auc:0.968071+0.0111325
+[14]    train-auc:0.983658+0.00207746   test-auc:0.968117+0.0111204
+[15]    train-auc:0.983752+0.00203802   test-auc:0.968261+0.0110983
+[16]    train-auc:0.983873+0.00204185   test-auc:0.968469+0.0111091
+[17]    train-auc:0.984511+0.0019946    test-auc:0.969742+0.0110136
+[18]    train-auc:0.984558+0.00201476   test-auc:0.969785+0.011004
+[19]    train-auc:0.9846+0.00200192     test-auc:0.969906+0.0110419
+[20]    train-auc:0.984644+0.00199541   test-auc:0.969944+0.0110176
+[21]    train-auc:0.984862+0.00227442   test-auc:0.970004+0.0110297
+[22]    train-auc:0.985226+0.00204974   test-auc:0.970039+0.0110307
+[23]    train-auc:0.985788+0.00221526   test-auc:0.971313+0.0108938
+[24]    train-auc:0.987064+0.00177722   test-auc:0.972341+0.0121215
+[25]    train-auc:0.988397+0.00190627   test-auc:0.972754+0.0122242
+[26]    train-auc:0.990049+0.00135835   test-auc:0.973885+0.012431
+[27]    train-auc:0.99084+0.00103976    test-auc:0.975893+0.0129389
+[28]    train-auc:0.990918+0.00107898   test-auc:0.975785+0.0128645
+[29]    train-auc:0.992083+0.000634934  test-auc:0.977313+0.0100749
+[30]    train-auc:0.992215+0.000536276  test-auc:0.977233+0.0100076
+[31]    train-auc:0.992568+0.000826239  test-auc:0.976925+0.0100795
+[32]    train-auc:0.993624+0.00129548   test-auc:0.97986+0.00602957
+[33]    train-auc:0.994348+0.00132257   test-auc:0.979506+0.00524156
+[34]    train-auc:0.994743+0.00130813   test-auc:0.980052+0.00530691
+[35]    train-auc:0.994935+0.00138159   test-auc:0.98002+0.00498522
+[36]    train-auc:0.995486+0.00105628   test-auc:0.980958+0.00630089
+[37]    train-auc:0.99556+0.00121998    test-auc:0.980302+0.00548456
+[38]    train-auc:0.995749+0.00116287   test-auc:0.980406+0.00581862
+[39]    train-auc:0.995884+0.00121771   test-auc:0.980077+0.00544723
+[40]    train-auc:0.996149+0.000972976  test-auc:0.9806+0.00623025
+[41]    train-auc:0.996156+0.000992556  test-auc:0.980854+0.00629477
+[42]    train-auc:0.996186+0.000882378  test-auc:0.98098+0.00631044
+[43]    train-auc:0.996324+0.000930772  test-auc:0.981228+0.00607558
+[44]    train-auc:0.996481+0.000873654  test-auc:0.980936+0.00595517
+[45]    train-auc:0.996558+0.000909827  test-auc:0.980907+0.00603868
+[46]    train-auc:0.996551+0.000896268  test-auc:0.980797+0.00587913
+[47]    train-auc:0.99662+0.000864491   test-auc:0.980781+0.00550196
+[48]    train-auc:0.996649+0.00085869   test-auc:0.980452+0.00561439
+[49]    train-auc:0.996647+0.000839199  test-auc:0.980942+0.00574967
+[50]    train-auc:0.996837+0.000754502  test-auc:0.980526+0.00614254
+[51]    train-auc:0.996846+0.000773831  test-auc:0.981715+0.0048745
+[52]    train-auc:0.997104+0.000639611  test-auc:0.981712+0.00479076
+[53]    train-auc:0.997244+0.000549099  test-auc:0.981589+0.00497561
+[54]    train-auc:0.997443+0.000453048  test-auc:0.981486+0.00519692
+[55]    train-auc:0.997532+0.000468527  test-auc:0.981568+0.00493382
+[56]    train-auc:0.997617+0.000436222  test-auc:0.981753+0.00474024
+[57]    train-auc:0.997672+0.00042244   test-auc:0.981231+0.00487086
+[58]    train-auc:0.99772+0.000445507   test-auc:0.981477+0.00485351
+[59]    train-auc:0.997777+0.000434141  test-auc:0.981677+0.00526259
+[60]    train-auc:0.997838+0.000421716  test-auc:0.981688+0.00508858
+[61]    train-auc:0.997869+0.000413277  test-auc:0.981711+0.00524425
+[62]    train-auc:0.997921+0.000389718  test-auc:0.981509+0.00517782
+[63]    train-auc:0.997947+0.000391666  test-auc:0.981912+0.00492875
+[64]    train-auc:0.997986+0.000385114  test-auc:0.982156+0.00489197
+[65]    train-auc:0.998061+0.000374954  test-auc:0.982166+0.00478959
+[66]    train-auc:0.998092+0.000381518  test-auc:0.982277+0.00471373
+[67]    train-auc:0.998124+0.000385443  test-auc:0.982271+0.00479969
+[68]    train-auc:0.998147+0.000375959  test-auc:0.982436+0.00475574
+[69]    train-auc:0.998188+0.000352602  test-auc:0.982353+0.00455694
+[70]    train-auc:0.998223+0.000356495  test-auc:0.982201+0.00463517
+[71]    train-auc:0.998266+0.000351519  test-auc:0.982134+0.00449746
+[72]    train-auc:0.998308+0.000362569  test-auc:0.982109+0.0046267
+[73]    train-auc:0.998352+0.0003419    test-auc:0.982227+0.0045122
+[74]    train-auc:0.998386+0.000334462  test-auc:0.982191+0.00435397
+[75]    train-auc:0.998421+0.000310073  test-auc:0.982272+0.00434941
+[76]    train-auc:0.998436+0.000306394  test-auc:0.982238+0.00435831
+[77]    train-auc:0.998467+0.000288029  test-auc:0.982291+0.00432056
+the best n_estimatorsï¼?69
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 7, 'min_child_weight': 5}
+Auccuracy: 0.924441672543
+
+Model Report
+accuracy_score : 0.9872
+precision_score: 0.8769
+recall_score: 0.9048
+AUC Score (Train): 0.996944
+load train matrix sucess!!
+[0]     train-auc:0.937478+0.00824547   test-auc:0.923442+0.0333097
+[1]     train-auc:0.940892+0.00746584   test-auc:0.923403+0.0331305
+[2]     train-auc:0.941819+0.00800498   test-auc:0.923143+0.0332293
+[3]     train-auc:0.942687+0.00869181   test-auc:0.923101+0.0330967
+[4]     train-auc:0.944944+0.00772547   test-auc:0.925956+0.0327442
+[5]     train-auc:0.947655+0.00759178   test-auc:0.926205+0.0326045
+[6]     train-auc:0.948469+0.00809228   test-auc:0.92894+0.0288801
+[7]     train-auc:0.949281+0.00905324   test-auc:0.928887+0.0288368
+[8]     train-auc:0.950092+0.008358     test-auc:0.928841+0.0288536
+[9]     train-auc:0.950218+0.00826012   test-auc:0.928835+0.0288656
+[10]    train-auc:0.951715+0.0083204    test-auc:0.931544+0.025209
+[11]    train-auc:0.951799+0.00839503   test-auc:0.931478+0.0251453
+[12]    train-auc:0.95329+0.00894981    test-auc:0.931611+0.0252213
+[13]    train-auc:0.954059+0.0100012    test-auc:0.931568+0.0251232
+[14]    train-auc:0.956111+0.0109778    test-auc:0.935036+0.0243038
+[15]    train-auc:0.9575+0.0100382      test-auc:0.93503+0.0243286
+[16]    train-auc:0.958836+0.00895047   test-auc:0.935203+0.0241542
+[17]    train-auc:0.958883+0.00893579   test-auc:0.935421+0.0241514
+[18]    train-auc:0.959616+0.0094516    test-auc:0.935323+0.0242197
+[19]    train-auc:0.959658+0.00946138   test-auc:0.93553+0.0241066
+[20]    train-auc:0.960972+0.00891104   test-auc:0.935565+0.0241093
+[21]    train-auc:0.962319+0.00763786   test-auc:0.935629+0.0240438
+[22]    train-auc:0.962971+0.00693209   test-auc:0.935589+0.0240816
+[23]    train-auc:0.964282+0.00608063   test-auc:0.935436+0.0240518
+[24]    train-auc:0.976883+0.00947099   test-auc:0.94426+0.0259335
+[25]    train-auc:0.980179+0.0067385    test-auc:0.948414+0.028667
+[26]    train-auc:0.980276+0.00684943   test-auc:0.950443+0.0285169
+[27]    train-auc:0.980685+0.00684488   test-auc:0.950407+0.0285447
+[28]    train-auc:0.980758+0.00685672   test-auc:0.952881+0.0289642
+[29]    train-auc:0.98108+0.00696738    test-auc:0.952413+0.0287646
+[30]    train-auc:0.984978+0.00291804   test-auc:0.965661+0.0108714
+[31]    train-auc:0.985082+0.00283512   test-auc:0.965865+0.0108384
+[32]    train-auc:0.98532+0.00278257    test-auc:0.965957+0.0109099
+[33]    train-auc:0.9854+0.00269019     test-auc:0.965945+0.0108347
+[34]    train-auc:0.985577+0.00274195   test-auc:0.966146+0.0107002
+[35]    train-auc:0.986888+0.00424407   test-auc:0.965772+0.0100992
+[36]    train-auc:0.988178+0.00457157   test-auc:0.966031+0.0101693
+[37]    train-auc:0.990805+0.00439717   test-auc:0.965845+0.0104656
+[38]    train-auc:0.992423+0.0024853    test-auc:0.965645+0.0105447
+[39]    train-auc:0.993321+0.00267398   test-auc:0.969498+0.00915218
+[40]    train-auc:0.994674+0.00117878   test-auc:0.973482+0.00731655
+[41]    train-auc:0.994913+0.00117975   test-auc:0.974145+0.00783601
+[42]    train-auc:0.995505+0.000730762  test-auc:0.974886+0.00758918
+[43]    train-auc:0.995921+0.000583771  test-auc:0.97628+0.00509425
+[44]    train-auc:0.996163+0.000531494  test-auc:0.975997+0.00467309
+[45]    train-auc:0.996504+0.000386487  test-auc:0.975489+0.00490796
+[46]    train-auc:0.996738+0.000339925  test-auc:0.975903+0.00491851
+[47]    train-auc:0.99691+0.000352672   test-auc:0.975916+0.00468802
+[48]    train-auc:0.997066+0.0003801    test-auc:0.975735+0.00517926
+[49]    train-auc:0.997169+0.000359596  test-auc:0.97594+0.0047386
+[50]    train-auc:0.997262+0.000409477  test-auc:0.975416+0.00499059
+[51]    train-auc:0.997387+0.000445001  test-auc:0.974734+0.00576698
+[52]    train-auc:0.997519+0.000405224  test-auc:0.973967+0.00573746
+the best n_estimatorsï¼?44
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+CC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 7, 'min_child_weight': 1}
+Auccuracy: 0.980113647042
+
+Model Report
+accuracy_score : 0.9954
+precision_score: 1
+recall_score: 0.7059
+AUC Score (Train): 0.995904
+load train matrix sucess!!
+[0]     train-auc:0.994768+0.00132064   test-auc:0.992474+0.00472563
+[1]     train-auc:0.995924+0.00162129   test-auc:0.992462+0.00472772
+[2]     train-auc:0.997229+0.00125222   test-auc:0.99246+0.00472686
+[3]     train-auc:0.998097+0.00134829   test-auc:0.993579+0.00562545
+[4]     train-auc:0.998243+0.00108951   test-auc:0.993571+0.00562242
+[5]     train-auc:0.998676+0.00106741   test-auc:0.993569+0.00562143
+[6]     train-auc:0.999107+0.000848624  test-auc:0.993566+0.00562401
+[7]     train-auc:0.999396+0.000538509  test-auc:0.995233+0.00600456
+[8]     train-auc:0.999398+0.000538862  test-auc:0.995237+0.00600736
+[9]     train-auc:0.999399+0.000538899  test-auc:0.995238+0.00600799
+[10]    train-auc:0.999398+0.000537922  test-auc:0.995238+0.00600846
+[11]    train-auc:0.999399+0.000538773  test-auc:0.995234+0.00601482
+[12]    train-auc:0.999835+0.000289011  test-auc:0.996937+0.00380641
+[13]    train-auc:0.999979+8.06474e-06  test-auc:0.996924+0.00381741
+[14]    train-auc:0.999985+4.60435e-06  test-auc:0.996918+0.00382419
+[15]    train-auc:0.999986+4.45421e-06  test-auc:0.996913+0.00383082
+[16]    train-auc:0.999987+3.72022e-06  test-auc:0.996912+0.00383579
+[17]    train-auc:0.999989+3.44093e-06  test-auc:0.999761+0.000243096
+[18]    train-auc:0.999991+3.4641e-06   test-auc:0.999757+0.000237898
+[19]    train-auc:0.999992+3.2619e-06   test-auc:0.999769+0.000240058
+[20]    train-auc:0.999992+3.34664e-06  test-auc:0.999774+0.000239418
+[21]    train-auc:0.999993+2.93939e-06  test-auc:0.999773+0.000239365
+[22]    train-auc:0.999993+2.87054e-06  test-auc:0.99977+0.000237604
+[23]    train-auc:0.999993+2.72764e-06  test-auc:0.999774+0.000239186
+[24]    train-auc:0.999994+2.60768e-06  test-auc:0.999784+0.00021231
+[25]    train-auc:0.999994+2.82843e-06  test-auc:0.999788+0.000212536
+[26]    train-auc:0.999994+2.57682e-06  test-auc:0.999793+0.000213634
+[27]    train-auc:0.999995+2.44949e-06  test-auc:0.999796+0.000203422
+[28]    train-auc:0.999995+2.48193e-06  test-auc:0.999814+0.000174669
+[29]    train-auc:0.999995+2.48193e-06  test-auc:0.999824+0.000159045
+[30]    train-auc:0.999996+2.6533e-06   test-auc:0.999834+0.000145996
+[31]    train-auc:0.999996+2.4e-06      test-auc:0.999846+0.000128077
+[32]    train-auc:0.999996+2.19089e-06  test-auc:0.999846+0.00012804
+[33]    train-auc:0.999996+1.93907e-06  test-auc:0.999845+0.000132585
+[34]    train-auc:0.999997+1.85472e-06  test-auc:0.999843+0.000131976
+[35]    train-auc:0.999997+1.85472e-06  test-auc:0.999844+0.000132332
+[36]    train-auc:0.999997+1.6e-06      test-auc:0.999842+0.000132296
+[37]    train-auc:0.999997+1.6e-06      test-auc:0.999844+0.000131333
+[38]    train-auc:0.999997+1.6e-06      test-auc:0.999845+0.000132421
+[39]    train-auc:0.999997+1.6e-06      test-auc:0.999845+0.000132756
+[40]    train-auc:0.999997+1.6e-06      test-auc:0.999841+0.000140375
+the best n_estimatorsï¼?32
+CCCC:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+:\Python27\lib\site-packages\scikit_learn-0.18.1-py2.7-win-amd64.egg\sklearn\cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+best_params: {'max_depth': 3, 'min_child_weight': 3}
+Auccuracy: 0.998643924729
+
+Model Report
+accuracy_score : 0.9945
+precision_score: 1
+recall_score: 0.9302
+AUC Score (Train): 0.999700
+
+E:\BaiduYunDownload\event_traceback\model>
